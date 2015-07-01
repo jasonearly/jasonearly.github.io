@@ -8,7 +8,33 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+html {
+  background: url(http://www.pascalvangemert.nl/view/images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
+.overlay {
+  background-color: #22A39F;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  opacity: 0.75;
+  filter: alpha(opacity=75);
+  z-index: -1;
+}
+
+section.hero {
+width: 100%;
+}
+
+section.clients, footer{
+    background-color: $background-color;
+}
 
 /**
  * Basic styling
@@ -19,7 +45,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-color: $body-background-color;
     -webkit-text-size-adjust: 100%;
 }
 

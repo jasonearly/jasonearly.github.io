@@ -1,6 +1,7 @@
 <!DOCTYPE html> <!-- default index template -->
 <html>
 
+
   {% include head.html %}
 
   <body>
@@ -9,11 +10,11 @@
 
 
   <!-- <div class="page-content">-->
-     <!-- <div class="wrapper">-->
+    <div class="container"> <!-- <div class="wrapper">-->
         {{ content }}
 
-   <!--  </div>-->
-
+    </div><!--  </div>-->
+  {% include clients.html %}
     {% include footer.html %}
 
   </body>
