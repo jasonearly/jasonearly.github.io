@@ -9,7 +9,10 @@ dl, dd, ol, ul, figure {
 }
 
 html {
-  background: url(http://www.pascalvangemert.nl/view/images/background.jpg) no-repeat center center fixed;
+  //background: url(http://www.pascalvangemert.nl/view/images/background.jpg) no-repeat center center fixed;
+  //background: url(http://line25.com/wp-content/uploads/2015/gifs/12.gif) no-repeat center center fixed;
+  //background: url(http://maxcdn.thedesigninspiration.com/wp-content/uploads/2014/03/GIF-UI-Design-008.gif) no-repeat center center fixed;
+  //background: url(http://maxcdn.thedesigninspiration.com/wp-content/uploads/2014/03/GIF-UI-Design-019.gif) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -17,7 +20,7 @@ html {
 }
 
 .overlay {
-  background-color: #22A39F;
+  background-color: #263238;
   position: absolute;
   top: 0px;
   bottom: 0px;
@@ -28,7 +31,22 @@ html {
   z-index: -1;
 }
 
+svg{
+  width: 50px;
+  margin: 10px 0px;
+}
+
+.logo{
+    fill: #fff;
+
+}
+
 section.hero {
+width: 100%;
+max-height: 35em;
+}
+
+section.clients {
 width: 100%;
 }
 
@@ -49,8 +67,24 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+p {
+  font-family: "PT Serif",Georgia,Times,"Times New Roman",serif;
+  font-size: 26px;
+  line-height: 39px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
 
+.btn-default {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  font-family: "Helvetica Neue",Helvetica,"pragmatica-web",Arial,sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  text-transform: uppercase;
 
+}
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -125,6 +159,12 @@ h5{
     font-size: 1em;
 }
 
+
+.headline{
+position: relative;
+top: 8em;
+color: #fff;
+}
 /**
  * Links
  */
