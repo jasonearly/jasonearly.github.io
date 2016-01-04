@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 html {
   //background: url(http://www.pascalvangemert.nl/view/images/background.jpg) no-repeat center center fixed;
   //background: url(http://line25.com/wp-content/uploads/2015/gifs/12.gif) no-repeat center center fixed;
-  background: url(http://maxcdn.thedesigninspiration.com/wp-content/uploads/2014/03/GIF-UI-Design-008.gif) no-repeat center center fixed;
+  //background: url(http://maxcdn.thedesigninspiration.com/wp-content/uploads/2014/03/GIF-UI-Design-008.gif) no-repeat center center fixed;
   //background: url(http://maxcdn.thedesigninspiration.com/wp-content/uploads/2014/03/GIF-UI-Design-019.gif) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -103,7 +103,8 @@ body.no_scroll {
 
 a:link, a:visited {
   //color: #2ecc71;
-  color: #cb1452;
+  //color: #cb1452;
+  color: #FFBF51;
   text-decoration: none;
   -moz-transition: all .3s;
   -webkit-transition: all .3s;
@@ -485,25 +486,33 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+// h1, h2, h3,
+h4, h5, h6 {
     font-weight: 300;
     font-family: "league-gothic",sans-serif;
     text-transform: uppercase;
 }
 
 h1{
-    font-size: 5.61em;
+  font-family: "source-serif-pro",sans-serif;
+    font-size: 4.236em;
     padding: .5em 0em 0em;
-    margin-bottom: 0em;
+    margin-bottom: 0.236em;
     line-height: 1em;
+    font-weight: 600;
 }
 h2{
-  font-size: 4.209em;
+  font-family: "source-serif-pro",sans-serif;
+  font-size: 2.618em;
+  font-weight: 200;
 }
 
 h3{
-    font-size: 3.157em;
-    color: #a4a4a4;
+   font-family: "proxima-nova",sans-serif;
+    font-size: 1.618em;
+    font-weight: 700;
+    color: #fff;
+    padding: 1em 0;
 }
 h4{
   font-size: 2.369em;
@@ -514,7 +523,7 @@ h5{
      color: #848484;
 }
 h6{
-  font-size: 1.333em;
+  font-size: 1.618em;
   margin-bottom: 0px;
    color: #848484;
 }
@@ -522,7 +531,7 @@ h6{
 
 .headline{
 position: relative;
-top: 8em;
+top: 1em;
 color: #fff;
 }
 /**
