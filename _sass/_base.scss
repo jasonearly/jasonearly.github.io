@@ -300,12 +300,12 @@ nav.expanded #navigation {
   padding: 2% 3%;
   margin: -2% -3%; /* center icon in vertical middle of top menu */
   cursor: pointer;
-  float: right;
+  //float: right;
   -webkit-user-select: none;
   -moz-user-select: none;
   -o-user-select: none;
   user-select: none;
-  position: absolute;
+  //position: absolute;
   right: 5%;
 }
 
@@ -489,6 +489,17 @@ li {
     }
 }
 
+.contact-list{
+  color: #fff;
+  font-family: "source-serif-pro",sans-serif;
+  font-weight: 600;
+}
+
+.username{
+  font-family: "proxima-nova",sans-serif;
+  font-weight: 700;
+}
+
 
 
 /**
@@ -498,7 +509,7 @@ li {
 
 h1{
   font-family: "source-serif-pro",sans-serif;
-    font-size: 4.236em;
+    font-size: 4.836em;
     padding: .5em 0em 0em;
     margin-bottom: 0.236em;
     line-height: 1em;
