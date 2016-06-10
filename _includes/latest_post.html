@@ -4,34 +4,12 @@
     <div class="row">
       <div class="col-md-12 text-left">
         <h6>NEW ARTICLE:
+
           {% for post in site.posts limit:1 %}
-
-
-
-          <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
-
-    {% endfor %}
+            <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% endfor %}
 
         </h6>
       </div>
     </div>
 </section>
-
-<!-- <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-</div> -->
