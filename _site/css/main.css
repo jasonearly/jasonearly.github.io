@@ -665,7 +665,12 @@ pre {
 
 .post-meta {
   font-size: 15.75px;
-  color: #828282; }
+  color: #828282;
+  font-size: 16px;
+  color: #bdc3c7;
+  margin-top: 15px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin-bottom: 84px; }
 
 .post-link {
   display: block;
@@ -678,9 +683,13 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
+  padding: 130px 0 0 0;
+  font-size: 35px;
+  margin: 0;
+  font-weight: 300;
   letter-spacing: -1px;
-  line-height: 1; }
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #2c3e50; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
@@ -702,6 +711,60 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+  .post-content h6 {
+    font-size: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    margin: 25px 0;
+    text-transform: none;
+    color: #2c3e50;
+    line-height: 1.2em; }
+  .post-content p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.722169;
+    color: #7f8c8d;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+
+p.byline {
+  font-size: 13px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  color: #bdc3c7;
+  line-height: 20px; }
+
+.social-btns {
+  white-space: nowrap;
+  color: #bdc3c7;
+  line-height: 25px;
+  font-size: 30px;
+  padding-bottom: 130px; }
+
+.social-btns > * {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
+  font-size: 25px;
+  font-weight: 400;
+  color: #979c9f;
+  width: 40px;
+  height: auto;
+  overflow: hidden;
+  text-align: center; }
+
+.social-btns > * > :first-child {
+  color: #bdc3c7; }
+
+.social-btns > * > * {
+  display: block;
+  position: relative;
+  top: 0;
+  -webkit-transition: .25s top;
+  -moz-transition: .25s top;
+  -o-transition: .25s top;
+  transition: .25s top; }
 
 /**
  * Syntax highlighting styles
