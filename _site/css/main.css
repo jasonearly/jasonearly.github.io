@@ -200,6 +200,7 @@ nav.expanded {
   transform: translate(0, -700px);
   opacity: 0;
   padding-top: 2em;
+  margin-top: 46px;
   text-align: center;
   -webkit-transition: -webkit-transform .15s, opacity .7s;
   -moz-transition: -moz-transform .15s, opacity .7s;
@@ -234,6 +235,10 @@ nav.expanded #navigation {
   text-transform: uppercase;
   color: #666;
   display: block; }
+
+.menu {
+  right: 5%;
+  position: absolute; }
 
 /* === MENU ICONS === */
 /* ================== */
@@ -448,6 +453,12 @@ h6 {
 
   .wrap {
     max-width: 770px; } }
+@media only screen and (min-width: 1101px) {
+  body {
+    font-size: 120%; }
+
+  .wrap {
+    max-width: 770px; } }
 .headline {
   position: relative;
   top: 1em;
@@ -460,7 +471,7 @@ a {
   color: #FFBF51;
   text-decoration: none; }
   a:visited {
-    color: #ffa305; }
+    color: #ffa304; }
   a:hover {
     color: #111;
     text-decoration: none; }

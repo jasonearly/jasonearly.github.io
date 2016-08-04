@@ -247,6 +247,7 @@ nav.expanded {
   transform: translate(0,-700px);
   opacity: 0;
   padding-top: 2em;
+  margin-top: 46px;
   text-align: center;
   -webkit-transition: -webkit-transform .15s, opacity .7s;
   -moz-transition: -moz-transform .15s, opacity .7s;
@@ -290,7 +291,10 @@ nav.expanded #navigation {
   display: block;
 }
 
-
+.menu{
+  right: 5%;
+    position: absolute;
+}
 
 /* === MENU ICONS === */
 /* ================== */
@@ -561,6 +565,11 @@ h6{
                     body { font-size:120%;}
                      .wrap {max-width:770px;}
         }
+
+        @media only screen and (min-width: 1101px) {
+                        body { font-size:120%;}
+                         .wrap {max-width:770px;}
+            }
 
 .headline{
 position: relative;
