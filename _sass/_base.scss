@@ -377,7 +377,7 @@ nav.expanded #navigation {
 
 section.hero {
 width: 100%;
-//max-height: 33em;
+min-height: 43em;
 }
 
 section.latest_post{
@@ -553,13 +553,6 @@ h6{
    color: #848484;
 }
 
-    @media only screen and (max-width: 400px) {
-                    body { font-size:90%;}
-     }
-
-      @media only screen and (max-width: 800px) {
-                    body { font-size:100%;}
-        }
 
     @media only screen and (max-width: 1100px) {
                     body { font-size:120%;}
@@ -571,10 +564,19 @@ h6{
                          .wrap {max-width:770px;}
             }
 
+            @media only screen and (max-width: 800px) {
+                          body { font-size:100%;}
+              }
+
+              @media only screen and (max-width: 400px) {
+                              body { font-size:90%;}
+               }
+
 .headline{
 position: relative;
-top: 1em;
+top: 6em;
 color: #fff;
+margin-bottom: 8em;
 }
 
 /**
