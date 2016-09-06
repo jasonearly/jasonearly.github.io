@@ -99,8 +99,14 @@ ul {
   list-style-type: none;
   padding: 0; }
 
-.fa-dribbble, .fa-twitter, .fa-linkedin {
-  margin: 0 10px; }
+.fa-dribbble, .fa-twitter, .fa-linkedin, .fa-github {
+  margin: 0; }
+
+.social-media-list li a {
+  color: #828282; }
+
+.social-media-list li a:hover {
+  color: #424242; }
 
 /* === TOP MENU LAYOUT === */
 /* ======================= */
