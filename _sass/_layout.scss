@@ -94,7 +94,7 @@
 .site-footer {
    // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background-color: $grey-color-dark;
+    background-color: $grey-color-light;
 }
 
 .footer-heading {
@@ -102,10 +102,26 @@
     margin-bottom: $spacing-unit / 2;
 }
 
+p.description{
+color: $grey-color-dark;
+font-size: 1em;
+line-height: 1.5em;
+}
+
 .contact-list,
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    font-weight: 900;
+    margin-bottom: 15px;
+    margin-top: 20px;
+
+    li{
+        font-size: 1.31em;
+        display: inline;
+        margin-right: 1em;
+        color: $grey-color-dark;
+    }
 }
 
 .footer-col-wrapper {

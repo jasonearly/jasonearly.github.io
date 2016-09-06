@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jason Early | Designer &amp; Front-End Developer</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Jason Early | Designer</title>
+    <description>Jason Early is the Founder and Designer of gruntmonkey, a design consultancy that specializes in helping clients plan, implement, and evolve their business into a successful venture.
 </description>
     <link>http://jasonearly.bitbucket.org//</link>
     <atom:link href="http://jasonearly.bitbucket.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Sep 2016 20:50:41 -0500</pubDate>
-    <lastBuildDate>Fri, 02 Sep 2016 20:50:41 -0500</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 18:56:39 -0500</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 18:56:39 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
