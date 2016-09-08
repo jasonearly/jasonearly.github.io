@@ -377,10 +377,11 @@ nav.expanded #navigation {
   transition: transform .5s, filter .5s;
 }
 
-
-
-
 // End nav
+
+
+
+
 
 section.hero {
 width: 100%;
@@ -413,6 +414,23 @@ width: 100%;
 background-color: $background-color;
 }
 
+
+.blog-index
+{
+  li { border-bottom: 1px solid #ccc;
+    margin-bottom: 2em;
+  a{ font-size: 2.618em;
+  font-weight: 700;
+    font-family:"proxima-nova",sans-serif;}
+  }
+  p{
+    font-size: 1.618em;
+    line-height: 1.618em;
+  }
+  .date{    font-size: 1.31em;
+    font-weight: 200;
+    font-family: "source-serif-pro",sans-serif;}
+}
 
 
  footer{
