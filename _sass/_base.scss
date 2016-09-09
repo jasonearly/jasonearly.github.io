@@ -427,9 +427,13 @@ background-color: $background-color;
     font-size: 1.618em;
     line-height: 1.618em;
   }
-  .date{    font-size: 1.31em;
+  .date{
+    font-size: 1.31em;
     font-weight: 200;
-    font-family: "source-serif-pro",sans-serif;}
+    font-family: "source-serif-pro",sans-serif;
+    position: relative;
+    transform: translateY(50%);
+  }
 }
 
 

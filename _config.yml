@@ -4,6 +4,9 @@ email: theoffice@gruntmonkey.com
 description: > # this means to ignore newlines until "baseurl:"
   Jason Early is the Founder and Designer of gruntmonkey, a design consultancy that
   specializes in helping clients plan, implement, and evolve their business into a successful venture.
+paginate: 3
+paginate_path: blog/page:num/
+
 # baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jasonearly.bitbucket.org/" # the base hostname & protocol for your site
 twitter_username: jason_early
@@ -12,3 +15,4 @@ linkedin_username: jsonerly
 # Build settings
 markdown: kramdown
 permalink: /:title
+gems: [jekyll-paginate]
