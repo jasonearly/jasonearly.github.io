@@ -40,12 +40,12 @@ title: Words
     {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pull-left">&laquo; Newer Posts</a>
   {% else %}
-    <span>&laquo; Prev</span>
+    <!-- <span>&laquo; Newer Posts</span> -->
   {% endif %}
 
-  {% for page in (1..paginator.total_pages) %}
+  <!-- {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
@@ -53,12 +53,13 @@ title: Words
     {% else %}
       <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pull-right">Older Posts
+ &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <!-- <span>Older Posts &raquo;</span> -->
   {% endif %}
 </div>
 {% endif %}

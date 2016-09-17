@@ -55,9 +55,7 @@ Mentor | Provides professional and entrepreneurial guidance to emerging
 designers and web developers.  
 
 <br/>
-see more
 
-<!--
 **Creative Go-Round** / *2011 - 2014*  
 Lead Mentor | Provides professional guidance to emerging designers and  
 the organization’s operation.  
@@ -82,7 +80,7 @@ Graphic Artist | Created graphics, interactive simulations & animations used in 
 <br/>
 
 **Dreamscape Design Inc.** *Web development and design* / *2000 - 2002*  
-Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.   -->
+Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.  
 
 <br/>
 <hr>

@@ -426,6 +426,9 @@ li > ol {
   font-family: "proxima-nova",sans-serif;
   font-weight: 700; }
 
+.pagination {
+  width: 100%; }
+
 /**
  * Headings
  */

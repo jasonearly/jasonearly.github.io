@@ -6,178 +6,305 @@
 </description>
     <link>http://jasonearly.bitbucket.org//</link>
     <atom:link href="http://jasonearly.bitbucket.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 12:34:54 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 12:34:54 -0500</lastBuildDate>
+    <pubDate>Sat, 17 Sep 2016 11:17:12 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Sep 2016 11:17:12 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Template Post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Joining Bloc</title>
+        <description>&lt;p&gt;It’s been almost a year since I last touched this site, which means it worked. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Last year at this time I was looking for new opportunities. I was and am still running my design practice, but I was in a lull. Work was slowing, I was getting concerned with finances and was just looking to do something else for a while to rest mentally from all that goes into running a single person business.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;######Introduction
-Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Well it worked. In the past 10 months I’d joined a company, learned a whole lot about an industry I had never experienced and worked with a great group of talented developers. I was pretty heads down working though.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Today I’m getting back into mentoring and I couldn’t be more excited about it. I’ve joined &lt;a href=&quot;https://www.bloc.io/?ref_token=MjI4Njk2OQ&quot; title=&quot;Bloc.io&quot;&gt;Bloc.io&lt;/a&gt; to mentor students participating in their UX Design Apprenticeship.
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It’s a very thorough UX course that really aligns with ideas I’m had about modern education for a while now and I’m really looking forward to mentoring again.
+&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;If you are interested in learning either UX Design, iOS/Android Development, Frontend Web Development, or Become a Full Stack Web Developer the link below with save you $100&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bloc.io/?ref_token=MjI4Njk2OQ&quot; title=&quot;Save $100 on your Bloc Apprenticeship&quot;&gt;Join Bloc.io&lt;/a&gt; and save $100 on your Bloc Apprenticeship.
+&lt;br /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://jasonearly.bitbucket.org//template-post</link>
-        <guid isPermaLink="true">http://jasonearly.bitbucket.org//template-post</guid>
+        <pubDate>Fri, 10 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://jasonearly.bitbucket.org//joining_Bloc</link>
+        <guid isPermaLink="true">http://jasonearly.bitbucket.org//joining_Bloc</guid>
         
+        
+        <category>archive</category>
         
         <category>design</category>
         
-        <category>UX</category>
-        
-        <category>business</category>
+        <category>mentoring</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Time for another new site.</title>
+        <description>&lt;p&gt;Well it’s time for a site update. For this iteration I wanted to try out Jekyll and see if I can force myself to write more. For now the whole site is pretty vanilla. Default styles from Bootstrap and Jekyll, with a focus on “just getting things to work”. I spent a day over the weekend building and testing so I’m sure there are some kinks to work out yet. As for now though, it works.    &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Another focus for the site is to try out some modern front-end frameworks. I’ve spent a lot of time over the last few weeks exploring Yeoman, Grunt, Bower and AngularJS. There’s more to say about these in future articles but it’s been great getting my hands dirty in code again.  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;So for now this is it. A new site/sandbox to play in and test out ideas.&lt;br /&gt;
+-J&lt;/p&gt;
 </description>
-        <pubDate>Tue, 30 Jun 2015 09:06:45 -0500</pubDate>
-        <link>http://jasonearly.bitbucket.org//welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://jasonearly.bitbucket.org//welcome-to-jekyll</guid>
+        <pubDate>Mon, 21 Oct 2013 00:00:00 -0500</pubDate>
+        <link>http://jasonearly.bitbucket.org//new_site</link>
+        <guid isPermaLink="true">http://jasonearly.bitbucket.org//new_site</guid>
         
         
-        <category>jekyll</category>
+        <category>archive</category>
         
-        <category>update</category>
+        <category>design</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>On NDAs</title>
+        <description>&lt;p&gt;Over the years, I’ve worked with, or spoken about working with, a number of clients that have required signing a nondisclosure agreement. Some are established organizations, while others are founders within Chicago’s startup community. In the last six months, however, there seems to have been a shift in the tone of many NDAs.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Like many legal documents, the NDA is slanted to the benefit of the client. I get that; it’s always been this way. Recently, though, it feels like the benefits to the client are so one-sided as to be of no benefit to me and the studio.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;So going forward I’ve decided to share the studio’s new policy on nondisclosure agreements: &lt;strong&gt;Your NDA will most likely not be signed.&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Now I’m not naive enough to say “will never be signed”, because I know, and have been in, certain situations where it is perfectly acceptable to agree to nondisclosure terms. Most of those situations involve working with licensed properties, working in (established) competitive product markets, Clients that have proprietary technology systems, and businesses that utilize and have developed their own trade secrets.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And don’t get me wrong: I absolutely understand why you have an NDA. I do. But some simply have unacceptable terms. Including:&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;-Never disclosing the work done for, or displaying who a client is.&lt;/strong&gt;  &lt;br /&gt;
+What were the first things you asked me? “Who do you work for?”, Can you tell me more about what you do?”, “Can I see some samples of your work?”. Part of the tool kit I use to generate new clients, and income, is being able to explain the work I do by displaying previous work and being able to discuss the process, issues, and revelations, that lead to the presented solution, just as I did with you when we first met. If I’m unable to do that I have nothing tangible to show that supports my presented solutions.  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-Signing an NDA to protect a client’s “Idea”.&lt;/strong&gt;&lt;br /&gt;
+Ideas, by themselves, are worthless. Yes, even yours. (No offense.) The value of an idea only comes into fruition based on the execution of that idea. Just look at all the similar businesses that exist in the same space. For example the options for errand running services: TaskRabbit, Zaarly, Blastboard, and countless other variations. They all provide essentially the same service, but each are executed in different ways. The idea isn’t what’s novel. It’s your execution that makes the difference.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-Asking for a NDA prior to even speaking to a client/Signing an NDA as an act of “good faith”.&lt;/strong&gt;&lt;br /&gt;
+It may be implied as a sign of good faith, but I see it as the first sign of distrust. Client relationships must be built on trust and respect. If you don’t trust me, then how can we work together? I want you to understand that the entire professional reputation of any service provider — studio or individual — is one based on trust. If I were to go around discussing my clients and their secrets, I can guarantee that I would be out of business.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So those are stipulations I will absolutely no longer be agreeing to. In addition to those, there are a number of other reasons to not agree to an NDA. Why?&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-It puts all the obligation on me and none on the client.&lt;/strong&gt;&lt;br /&gt;
+I have to take precaution and make sure I never share what is revealed or I’m (potentially) liable. But where’s the client’s obligation to me and the information that I provide?&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-I’m not signing a legal document without a lawyer.&lt;/strong&gt;&lt;br /&gt;
+No fucking way. Period. NDA’s are legally binding contracts, often covering a wide number of situations, and written by a lawyer. So shouldn’t I have one read it? You disagree? Then we won’t be working together.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-The biggest value to your project I could offer is that I would talk about it.&lt;/strong&gt;&lt;br /&gt;
+I completely agree with Anil Dash on this one. If I’m silenced by an NDA and I meet a great investor/sponsor/partner for the project, I wouldn’t be able to tell them about it.  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a service provider I do understand that there are levels of confidentiality that go along with the job so in the name of transparency here is how gruntmonkey handles those confidential situations outside of those already listed acceptable situations.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;1) Conversations with clients are held in confidence unless permission is granted to share for the sake of the project.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2) Final Deliverables produced are held in confidence until the client releases the project to the public.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;3) Once the Final Deliverables have been released by the client to the public the studio retains the right to display/share/write about/discuss the work as outlined in the studio’s Terms of Agreement.  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s it.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are at a stage where revealing an idea could be damaging to its success, then only disclose that information to those whom you know and trust. Ideas traditionally gain value from cross-pollination, and this only comes when they are talked about.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But the fundamental issue is this: if we don’t have a basic level of mutual trust and respect, then we shouldn’t be working together at all. I’m ok with that.&lt;br /&gt;
+What about you?&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;edited-by-alisa-bonsignore&quot;&gt;Edited by Alisa Bonsignore&lt;/h6&gt;
 </description>
-        <pubDate>Tue, 30 Jun 2015 09:06:45 -0500</pubDate>
-        <link>http://jasonearly.bitbucket.org//welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://jasonearly.bitbucket.org//welcome-to-jekyll</guid>
+        <pubDate>Sun, 21 Oct 2012 00:00:00 -0500</pubDate>
+        <link>http://jasonearly.bitbucket.org//On-NDAs</link>
+        <guid isPermaLink="true">http://jasonearly.bitbucket.org//On-NDAs</guid>
         
         
-        <category>jekyll</category>
+        <category>archive</category>
         
-        <category>update</category>
+        <category>design</category>
+        
+        <category>NDAs</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Opportunity earned. Not given.</title>
+        <description>&lt;p&gt;A few times a year, mostly during the summer, the studio gets a number of random, unsolicited emails containing resumes and generic cover letter .PDFs from people who want to work here.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;I’d like to issue an open letter in reply.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;First off, thank you for your interest in what the studio does, and for wanting to be a part of it. It really means a lot to me.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Secondly, I’d like to confess something to you. I don’t care about your resume.&lt;br /&gt;
+It’s true: I don’t read them. Your resume tells me two things:&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Your attention to detail.&lt;/li&gt;
+  &lt;li&gt;Your ability to organize content.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;p&gt;Now, both are important qualities, but are only parts of a bigger whole. Showing me that on screen, for a piece that is meant to be printed is already one strike against you. Thinking that I may actually print it out is another. Two strikes against you and I haven’t even seen your work yet. The odds are not in your favor.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are in the creative services industry. If you can’t devise a creative way to get my attention, then that’s another conversation we can have at a later time.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So why do I not read resumes? In the hierarchy of things I need to know to consider offering someone an opportunity to work with me, a resume is probably third or fourth on the scale of importance. What are numbers one and two?
+The work presented, and the person presenting. In that order.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nothing else matters. Really.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Your work is what will get you in my door, but actually speaking to you will convince me to grant you an opportunity.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Did you catch that? Speaking with you — conversing — is the key. If you have the chance to talk with me about an opportunity, it is yours and yours alone to attain or to lose.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now since I am writing about opportunities at gruntmonkey I’ll just go ahead and close with this:&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Are there currently opportunities to work with gruntmonkey? There are ALWAYS opportunities to work with gruntmonkey. It’s up to you, the applicant, to convince me that you have earned it.&lt;/p&gt;
+
+&lt;h6 id=&quot;edited-by-alisa-bonsignore&quot;&gt;Edited by Alisa Bonsignore&lt;/h6&gt;
 </description>
-        <pubDate>Tue, 30 Jun 2015 09:06:45 -0500</pubDate>
-        <link>http://jasonearly.bitbucket.org//welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://jasonearly.bitbucket.org//welcome-to-jekyll</guid>
+        <pubDate>Sat, 21 Jul 2012 00:00:00 -0500</pubDate>
+        <link>http://jasonearly.bitbucket.org//Opportunity-Earned</link>
+        <guid isPermaLink="true">http://jasonearly.bitbucket.org//Opportunity-Earned</guid>
         
         
-        <category>jekyll</category>
+        <category>archive</category>
         
-        <category>update</category>
+        <category>design</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>We did it to ourselves.</title>
+        <description>&lt;p&gt;Spec work. No two words can put me on the defensive faster. Personally I feel that it’s the practice that does more damage to our industry then anything else. It advocates and encourages a misrepresentation of value and misunderstanding of what the Design industry is, and it needs to stop.  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;So when I was pointed to Matt Mickiewicz speaking on disruptive innovation and speaking of his own co-founded venture 99designs, which crowdsources design projects (a form of working on Spec), I was, to put it lightly, ‘bothered’ by what was being communicated.   &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;After calming down and watching the presentation for myself, the reasoning for wanting to disrupt the model of hiring a designer felt based on naiveté and misunderstanding. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“We realized the old process of hiring a graphic designer was fundamentally broken. Everyone would begin by asking their friend for recommendations searching the Yellow Pages or do a Google search looking for agencies or freelancers in their local area. They would reach out to those designers, review portfolios, obtain quotes and proposals, go in for pitch meetings, negotiate a timeline, so by the time you decide that you needed a logo and the time you actually sign a contract to get a logo, as much as a month of time could have elapsed, which quite frankly is absolute bullshit for the average small-business owner who’s better off investing their time and effort in sales and marketing and customer service and looking after the core competency building of the business.”  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mr. Mickiewicz continues,  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;“As well many of the customers that were talked to were frustrated with designers even after they hired them. Not only were they committing to pay $2,000, $5,000, $10,000 for a logo, but often times designers didn’t deliver on time, a better client would come along, the designer would get sick, go on vacation in the middle of the project, and their project would be stuck in limbo.
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Even when a designer did deliver a project, many times the customers were unhappy. They’d be presented with an invoice, a design, and be told they would be charged $75, $100, $150, an hour or more if they want additional changes or revisions.”
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So let me see if I can understand this: His view that the design process is “fundamentally broken” is based on a process that takes too long; designers not taking responsibility for their job; designers not being accountable to their ‘customers’; and ‘customers’ being unhappy that they would be charged if they wanted changes made once a project was completed and delivered. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;He’s right. It sounds awful.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We only have ourselves to blame.&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spec work exists because designers and clients don’t value the work they do, and somewhere in the history of design services, designers stopped caring and believing that what they do is valuable. Design is a service industry. We as professional designers provide solutions to our clients.&lt;br /&gt;
+That’s right kids: clients. Not customers.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a misrepresentation that get passed around. Design customers don’t buy a logo like a new dishwasher. They can’t browse the shelves for one that fits their needs, price and aesthetic. Design clients hire a designer to craft a logo that solves a specific need to that client. It’s custom. It’s tailored to specifications, and is ideally more valuable to the client because of what it communicates or represents.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Design is a process. It takes time. How much time is a variable that relies on participation, the relationship between the Designer and the Client. If a Designer is scheduling a project that requires Client contributions and feedback on specific dates, the project schedule is immediately affected if the Client has to reschedule. If a Designer fails to deliver work for an in progress review, and has to be pushed back, the schedule is similarly affected. Time is a sliding and shifting variable in client relationships. It’s up to the party making the schedule to explain how participation or lack of can affect things, and It’s up to both parties involved to understand this and know how to handle the situation if something is affected.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Can getting a contract signed for a project take a month? Sure. Hell, it could take six. It could also take 2 weeks, 1 day, or hours. It just depends on how much both parties are participating in the process.&lt;br /&gt;
+Joint participation. (Are you sensing a theme?)&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are your clients unhappy? Why? Did you ask them?&lt;br /&gt;
+Did you know you can?&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The interactions between a Designer and a Client are based on a relationship. And like any relationship it involves communication and occasionally some cultivation. If your clients are unhappy with something you did, ask what it is they are unhappy with! If they are down right pissed-off, apologize! Then ask what it is they are unhappy with.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s about being accountable for the work we deliver. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are expected to be responsible people. If you are working on a project, get sick and can’t work on it for a couple days, inform your client the schedule is going to shift. It happens. Put in some extra hours to get things back on track once you’ve recovered, and the Client will most likely understand.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;They understand illness, sure, but vacations? Those take planning. If you are going to be going on vacation and you’re in the middle of a project you have a few options.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A) work your ass off to get things completed before you leave&lt;br /&gt;
+B) inform your client of the situation and that the schedule will shift&lt;br /&gt;
+C) work on it while on vacation (not my favorite option, but it is an option)&lt;br /&gt;
+D) not schedule the project for while you’re on vacation. &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vacations don’t just pop up out of thin air. Pretending otherwise is insulting to the Client and the relationship that you’re trying to cultivate.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;When Designers got scared — scared of losing clients, scared to ask for what a project was worth — the relationship balance between Designer and Client shifted into the Client’s favor.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But it can be shifted back into balance. The answer is education. First, we need to educate ourselves about effective client management, about the value of our work, and about our rights as professionals. Only then can we educate our clients.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It takes communication. It takes the ability to stand up for the decisions that went into producing a solution. It takes being able to present a solution with confidence. But most of all, it takes professionalism.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Design is most certainly a job. It’s about time we all start treating it like one again.&lt;/p&gt;
+
+&lt;h6 id=&quot;edited-by-alisa-bonsignore&quot;&gt;Edited by Alisa Bonsignore&lt;/h6&gt;
 </description>
-        <pubDate>Tue, 30 Jun 2015 09:06:45 -0500</pubDate>
-        <link>http://jasonearly.bitbucket.org//welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://jasonearly.bitbucket.org//welcome-to-jekyll</guid>
+        <pubDate>Thu, 21 Jun 2012 00:00:00 -0500</pubDate>
+        <link>http://jasonearly.bitbucket.org//We-Did-It-To-Ourselves</link>
+        <guid isPermaLink="true">http://jasonearly.bitbucket.org//We-Did-It-To-Ourselves</guid>
         
         
-        <category>jekyll</category>
+        <category>archive</category>
         
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Jun 2015 09:06:45 -0500</pubDate>
-        <link>http://jasonearly.bitbucket.org//welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://jasonearly.bitbucket.org//welcome-to-jekyll</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>design</category>
         
       </item>
     
