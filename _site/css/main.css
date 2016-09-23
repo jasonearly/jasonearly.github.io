@@ -329,8 +329,8 @@ section.ga {
   height: 36em; }
 
 section.clients {
-  width: 100%;
-  background-color: #fdfdfd; }
+  background-color: #fdfdfd;
+  margin-bottom: 5em; }
 
 .blog-index li {
   border-bottom: 1px solid #ccc;
@@ -470,24 +470,42 @@ h6 {
   margin-bottom: 0px;
   color: #848484; }
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1100px) and (orientation: landscape) {
   body {
-    font-size: 120%; }
+    font-size: 113%; }
 
   .wrap {
     max-width: 770px; } }
-@media only screen and (min-width: 1101px) {
+@media only screen and (min-width: 1101px) and (orientation: landscape) {
   body {
     font-size: 150%; }
 
   .wrap {
     max-width: 770px; } }
-@media only screen and (max-width: 800px) {
+@media only screen and (min-width: 800px) and (orientation: landscape) {
   body {
-    font-size: 100%; } }
-@media only screen and (max-width: 400px) {
+    font-size: 120%; } }
+@media only screen and (max-width: 400px) and (orientation: portrait) {
   body {
     font-size: 90%; } }
+@media only screen and (min-width: 400px) and (orientation: portrait) {
+  body {
+    font-size: 91%; } }
+@media only screen and (min-width: 407px) and (max-width: 767px) and (orientation: portrait) {
+  body {
+    font-size: 115%; } }
+@media only screen and (max-width: 568px) and (orientation: landscape) {
+  body {
+    font-size: 75%; } }
+@media only screen and (min-width: 667px) and (max-width: 736px) and (orientation: landscape) {
+  body {
+    font-size: 87%; } }
+@media only screen and (width: 768px) and (orientation: portrait) {
+  body {
+    font-size: 132%; }
+
+  .wrap {
+    max-width: 770px; } }
 .headline {
   position: relative;
   top: 6em;
@@ -752,20 +770,20 @@ p.description {
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 32px; }
+    font-size: 2.618em; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
-        font-size: 28px; } }
+        font-size: 2.119em; } }
   .post-content h3 {
     font-size: 26px; }
     @media screen and (max-width: 800px) {
       .post-content h3 {
-        font-size: 22px; } }
+        font-size: 1.618em; } }
   .post-content h4 {
     font-size: 20px; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 18px; } }
+        font-size: 1.31em; } }
   .post-content h6 {
     font-size: 20px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -776,7 +794,7 @@ p.description {
     line-height: 1.2em; }
   .post-content p {
     margin: 0;
-    font-size: 18px;
+    font-size: 1.31em;
     line-height: 1.722169;
     color: #7f8c8d;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
