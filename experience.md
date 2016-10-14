@@ -5,7 +5,7 @@ permalink: /experience/
 ---
 
 ## SUMMARY
-I'm the Founder & Designer of [gruntmonkey](http://gruntmonkey.com/ "gruntmonkey"), a small design practice specializing in process and  problem solving through communication, digital media and iterative development. I'm also a maker of limited edition show posters through The Poster Works, a former AIGA member, Mentor, coffee roaster, devout fan of baseball and an advocate on the importance of designs' impact upon all aspects of our lives. I've worked for clients such as NASA, M&M/MARS, and Boeing, providing designs that maintain a balance of beauty and functionality.  
+I'm the Founder & Designer of [gruntmonkey](http://gruntmonkey.com/ "gruntmonkey"), a small design practice specializing in process and  problem solving through communication, digital media and iterative development. I'm also a maker of limited edition show posters through The Poster Works, a former AIGA member, Mentor, coffee roaster, devout fan of baseball and an advocate on the importance of designs' impact upon all aspects of our lives.  
   <br/>
 <hr>
 <br/>
