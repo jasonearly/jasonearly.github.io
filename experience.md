@@ -19,7 +19,7 @@ I'm the Founder & Designer of [gruntmonkey](http://gruntmonkey.com/ "gruntmonkey
 
 <br/>  
 **TOOLKIT**<br/>
-UX Design / Brand Development / Strategic Communications / Concept Development /  
+UX Design / Brand Development / Strategic Communications / Concept Development /
 Visual Design / Mobile Design / Web Design / Front-End Development  
 
 <br/>
@@ -35,29 +35,29 @@ UX Design Teaching Assistant (UXD) | Assists in the teaching of GA Chicago's par
 <br/>
 
 **gruntmonkey LLC.** / *2009 - Present*  
-Founder / Designer | Designs and develops effective solutions that help clients plan,  
+Founder / Designer | Designs and develops effective solutions that help clients plan,
 implement, and evolve their business into successful ventures.  
 
 <br/>
 **Bloc.io** / *2014 - 2015*  
-UX Design Mentor | Provides professional and entrepreneurial guidance to emerging designers  
+UX Design Mentor | Provides professional and entrepreneurial guidance to emerging designers
 who are participating in Bloc's UX Design curriculum.  
 
 <br/>
 **PhishMe, Inc.** / *2013 - 2014*  
-Designer / Front-End Developer | Designed and developed the new user interface for   
+Designer / Front-End Developer | Designed and developed the new user interface for
 PhishMe's industry leading security training product.  
 
 <br/>
 
 **The Starter League** / *2011 - 2014*  
-Mentor | Provides professional and entrepreneurial guidance to emerging  
+Mentor | Provides professional and entrepreneurial guidance to emerging
 designers and web developers.  
 
 <br/>
 
 **Creative Go-Round** / *2011 - 2014*  
-Lead Mentor | Provides professional guidance to emerging designers and  
+Lead Mentor | Provides professional guidance to emerging designers and
 the organization’s operation.  
 
 <br/>
@@ -69,18 +69,20 @@ Design Intern | Created promotional materials for Illinois State University’s 
 
 <br/>
 
-**Daily Vidette** *Illinois State University’s student-run Newspaper* / *2007 - 2008*  
+**Daily Vidette** / *2007 - 2008*  
 Online Editor | Posted news and coordinating media to the online edition of the newspaper on a daily basis.  
+<!-- *Illinois State University’s student-run Newspaper* -->
+<br/>
+
+**Global Information Systems Technology Inc.** / *2003 - 2004*  
+Graphic Artist | Created graphics, interactive simulations & animations used in training applications.
+ <!-- *Computer based training software production*  -->
 
 <br/>
 
-**Global Information Systems Technology Inc.** *Computer based training software production* / *2003 - 2004*  
-Graphic Artist | Created graphics, interactive simulations & animations used in training applications.  
-
-<br/>
-
-**Dreamscape Design Inc.** *Web development and design* / *2000 - 2002*  
+**Dreamscape Design Inc.**  / *2000 - 2002*  
 Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.  
+<!-- *Web development and design* -->
 
 <br/>
 <hr>

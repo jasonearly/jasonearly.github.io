@@ -588,74 +588,104 @@ h6{
 
 
 
-    @media only screen and (max-width: 1100px)
-and (orientation: landscape)
-     {
-                    body { font-size:113%;}
-                    // .post-content p { font-size:120%; }
-                     .wrap {max-width:770px;}
-        }
-
-        @media only screen and (min-width: 1101px)
-        and (orientation: landscape)
-         {
-                        body { font-size:150%;}
-                        // .post-content p { font-size:150%; }
-                         .wrap {max-width:770px;}
-            }
-
-            @media only screen and (min-width: 800px)
-            and (orientation: landscape)
-             {
-                          body { font-size:150%;}
-                          // .post-content p { font-size:100%; }
-              }
+//     @media only screen and (max-width: 1100px)
+// and (orientation: landscape)
+//      {
+//                     body { font-size:113%;}
+//                     // .post-content p { font-size:120%; }
+//                      .wrap {max-width:770px;}
+//         }
+//
+//         @media only screen and (min-width: 1101px)
+//         and (orientation: landscape)
+//          {
+//                         body { font-size:150%;}
+//                         // .post-content p { font-size:150%; }
+//                          .wrap {max-width:770px;}
+//             }
+//
+//
+//
 
 
 
+
+//Media queries
 
 // mobile devices
-@media only screen and (max-width: 400px)
+@media only screen and (min-width: 320px) and (max-width: 375px)
 and (orientation: portrait)
  {
                 body { font-size:90%;}
                 // .post-content p { font-size:90%; }
  }
 
-              @media only screen and (min-width: 400px)
+              @media only screen and (min-width: 400px) and (max-width: 425px)
               and (orientation: portrait)
                {
-                              body { font-size:91%;}
+                              body { font-size:92%;}
                               // .post-content p { font-size:90%; }
                }
 
-               @media only screen and (min-width: 407px) and (max-width: 767px)
-               and (orientation: portrait)
-                {
-                  body { font-size:115%;}
-                }
+//width 568 landscape
+//width 640 landscape
+//width 667 landscape
+//width 732 landscape
+//width 736 landscape
 
-               @media only screen and (max-width: 568px)
-               and (orientation: landscape)
-                {
-                               body { font-size:75%;}
-                               // .post-content p { font-size:90%; }
-                }
-
-                @media only screen and (min-width: 667px) and (max-width: 736px)
-                and (orientation: landscape)
-                 {
-                                body { font-size:87%;}
-                                // .post-content p { font-size:90%; }
-                 }
-
+// tablets
                @media only screen
-                 and (width: 768px)
-                 and (orientation: portrait){
-                               body { font-size:132%;}
+               and (min-width: 426px)
+                 and (max-width: 768px)
+                {
+                               body { font-size:122%;}
                                // .post-content p { font-size:120%; }
                                 .wrap {max-width:770px;}
                    }
+
+                   //ipad -portrait
+               @media only screen and (min-width: 768px)
+               and (orientation: portrait)
+                {
+                  body { font-size:131%;}
+                }
+
+//width 800 portrait
+//width 900 portrait
+//width 906 landscape
+//width 1024 portrait
+//width 1366 landscape
+
+//laptops
+@media only screen and (min-width: 769px) and (max-width: 1024px)
+ {
+              body { font-size:140%;}
+              // .post-content p { font-size:100%; }
+  }
+
+
+
+  @media only screen and (min-width:1025px) and (max-width: 1440px)
+   {
+                  body { font-size: 150%;}
+                  // .post-content p { font-size:150%; }
+                   .wrap {max-width:770px;}
+      }
+
+
+//4k
+@media only screen and (min-width:1441px) and (max-width: 2545px)
+ {
+                body { font-size: 260%;}
+                // .post-content p { font-size:150%; }
+                 .wrap {max-width:770px;}
+    }
+
+
+
+
+
+
 
 .headline{
 position: relative;
