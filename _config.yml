@@ -1,13 +1,11 @@
 # Site settings
-title: Jason Early | Designer
+title: Jason Early | Chicago Designer, Strategist, User Expereince Designer (UX), and Educator.
 email: theoffice@gruntmonkey.com
-description: > # this means to ignore newlines until "baseurl:"
-  Jason Early is the Founder and Designer of gruntmonkey, a design consultancy that
-  specializes in helping clients plan, implement, and evolve their business into a successful venture.
+description: Jason Early is the Founder & Designer of gruntmonkey, a design consultancy that helps companies evolve their business into a successful venture.
 
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://jasonearly.github.io/" # the base hostname & protocol for your site
+url: "https://jasonearly.com/" # the base hostname & protocol for your site
 twitter_username: jason_early
 github_username: jasonearly
 linkedin_username: jsonerly
