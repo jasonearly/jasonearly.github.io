@@ -15,8 +15,8 @@ While originally written to inform residents and travelers in the UK, these are 
 tl:dr version:  
 
 Communications
-* Use a Virtual Private Network. A good one will cost some money, I recommend [Private Internet Access](https://www.privateinternetaccess.com/).  
-* Use an encrypted messaging app. Signal is hihghly reccomended. [ios](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) / [android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) 
-* Use a web browser that supports anonymous browsing. The big browsers, Chrome, Safari, Edge and Firefox, all support this. Additionaly you could use [Tor](https://www.torproject.org/projects/torbrowser.html). <br/>   
+- Use a Virtual Private Network. A good one will cost some money, I recommend [Private Internet Access](https://www.privateinternetaccess.com/).  
+- Use an encrypted messaging app. Signal is hihghly reccomended. [ios](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) / [android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) 
+- Use a web browser that supports anonymous browsing. The big browsers, Chrome, Safari, Edge and Firefox, all support this. Additionaly you could use [Tor](https://www.torproject.org/projects/torbrowser.html). <br/>   
 
 Stay safe.
