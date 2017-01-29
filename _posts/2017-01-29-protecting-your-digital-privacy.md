@@ -6,13 +6,13 @@ categories: archive digital privacy
 ---
 
 This has been a terrible weekend for Americans.     
-With President Trumps fear mongering executive order on immigration and refugees, CNN is currently running this headline, "[Cell phone screening next?](http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html)"<br/>    
+With President Trumps fear mongering executive order on immigration and refugees, CNN is currently running this headline, "[Cell phone screening next?](http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html)"<br/><br/>    
 
-This got me thinking of sharing steps showing how to protect your digital privacy, then I recalled the UK's recent online surveillance changes reported by [The Verge](http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill) and their [similar tips](http://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online)  that followed. <br/>    
+This got me thinking of sharing steps showing how to protect your digital privacy, then I recalled the UK's recent online surveillance changes reported by [The Verge](http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill) and their [similar tips](http://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online)  that followed. <br/><br/>    
 
-While originally written to inform residents and travelers in the UK, these are good steps to take for any digital citizen worried about unlawful surveillence.<br/>    
+While originally written to inform residents and travelers in the UK, these are good steps to take for any digital citizen worried about unlawful surveillence.<br/><br/>    
 
-tl:dr version:  
+tl:dr version:  <br/><br/>
 
 Communications  
 - Use a Virtual Private Network. A good one will cost some money, I recommend [Private Internet Access](https://www.privateinternetaccess.com/).    
