@@ -6,17 +6,17 @@ categories: archive digital privacy
 ---
 
 This has been a terrible weekend for Americans.   
-With President Trumps fear mongering executive order on immigration and refugees, CNN is currently running this headline, "[Cell phone screening next?](http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html)"
+With President Trumps fear mongering executive order on immigration and refugees, CNN is currently running this headline, "[Cell phone screening next?](http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html)"<br/>
 
-This got me thinking of sharing steps showing how to protect your digital privacy, then I recalled the UK's recent online surveillance changes reported by [The Verge](http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill) and their [similar tips](http://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online)  that followed. 
+This got me thinking of sharing steps showing how to protect your digital privacy, then I recalled the UK's recent online surveillance changes reported by [The Verge](http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill) and their [similar tips](http://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online)  that followed. <br/>
 
-While originally written to inform residents and travelers in the UK, these are good steps to take for any digital citizen worried about unlawful surveillence.
+While originally written to inform residents and travelers in the UK, these are good steps to take for any digital citizen worried about unlawful surveillence.<br/>
 
 tl:dr version:  
 
 Communications
 * Use a Virtual Private Network. A good one will cost some money, I recommend [Private Internet Access](https://www.privateinternetaccess.com/).  
 * Use an encrypted messaging app. Signal is hihghly reccomended. [ios](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) / [android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) 
-* Use a web browser that supports anonymous browsing. The big browsers, Chrome, Safari, Edge and Firefox, all support this. Additionaly you could use [Tor](https://www.torproject.org/projects/torbrowser.html).  
+* Use a web browser that supports anonymous browsing. The big browsers, Chrome, Safari, Edge and Firefox, all support this. Additionaly you could use [Tor](https://www.torproject.org/projects/torbrowser.html). <br/> 
 
 Stay safe.
