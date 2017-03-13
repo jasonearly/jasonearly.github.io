@@ -94,22 +94,22 @@ Designer | Created designs for web and print media, oversaw all aspects of web d
 <br/>
 
 **EXHIBITIONS**  
-- Bordo Bello : Redline Gallery, Denver Colorado | *2011 / 2012*  
-- Gig Posters : The Art of Music Promotion, Kentucky Museum of Art and Craft ( Invitational ) | *2009*  
-- Illinois State University Student Exhibition : Graphic Design ( Juried ) | *2007*  
-- Parkland College Student Exhibition : Photography & Drawing ( Juried ) | *2006*  
+ Bordo Bello : Redline Gallery, Denver Colorado | *2011 / 2012*  
+ Gig Posters : The Art of Music Promotion, Kentucky Museum of Art and Craft ( Invitational ) | *2009*  
+ Illinois State University Student Exhibition : Graphic Design ( Juried ) | *2007*  
+ Parkland College Student Exhibition : Photography & Drawing ( Juried ) | *2006*  
 
 <br/>
 
 **COLLECTIONS**  
-- Museum of Design, Zurich | *2010*  
+ Museum of Design, Zurich | *2010*  
 
 <br/>
 
 **SPEAKING / LECTURES**  
-- HOW Live / Creative Freelancer Conference, San Francisco | *2013*  
-- HOW Live / Creative Freelancer Conference, Boston | *2012*  
-- DePaul University, Chicago | *2012*  
+ HOW Live / Creative Freelancer Conference, San Francisco | *2013*  
+ HOW Live / Creative Freelancer Conference, Boston | *2012*  
+ DePaul University, Chicago | *2012*  
 
 <br/>
 <hr>
