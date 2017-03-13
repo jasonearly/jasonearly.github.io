@@ -89,7 +89,7 @@ Designer | Created designs for web and print media, oversaw all aspects of web d
 <br/>
 
 **PUBLICATIONS**  
-- Logo Lounge, Book 8 | *2014*  
+* Logo Lounge, Book 8 | *2014*  
 
 <br/>
 
