@@ -15,3 +15,13 @@ permalink: /:title
 gems: [jekyll-paginate]
 paginate: 3
 paginate_path: blog/page:num/
+
+# compress HTML
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
