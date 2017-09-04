@@ -5,7 +5,7 @@ description: Jason Early is the Founder & Designer of gruntmonkey, a design cons
 
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://jasonearly.com/" # the base hostname & protocol for your site
+url: "https://jasonearly.com" # the base hostname & protocol for your site
 twitter_username: jason_early
 github_username: jasonearly
 linkedin_username: jsonerly
