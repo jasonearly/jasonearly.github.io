@@ -1,7 +1,7 @@
 ---
 layout: exp
 title: Experience | Jason Early
-permalink: /experience.html
+
 ---
 
 ## SUMMARY
