@@ -27,6 +27,11 @@ Visual Design / Mobile Design / Web Design / Front-End Development
 <br/>
 
 ## EXPERIENCE
+**Joinesty** / *2017 - Present*  
+UX Design Specialist | Leads the design and development of Joinesty's products through audience research and a results-driven approach.  
+
+<br/>
+
 **General Assembly** / *2015 - Present*  
 UX Design Mentor (UXC) | Guides emerging designers in GA's online UX Design program.  
 UX Design Instructor (UXDI) | Lead the instructional team of GA Chicago's full-time program.  
