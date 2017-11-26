@@ -26,7 +26,7 @@ Visual Design / Mobile Design / Web Design / Front-End Development
 <hr>
 <br/>
 
-## EXPERIENCE
+## EXPERIENCE  
 **Joinesty** / *2017 - Present*  
 UX Design Specialist | Leads the design and development of Joinesty's products through audience research and a results-driven approach.  
 
