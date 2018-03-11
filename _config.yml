@@ -25,6 +25,3 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
-
-# plugins_dir:
-#   - jekyll-sitemap
