@@ -12,7 +12,7 @@ linkedin_username: jsonerly
 # Build settings
 markdown: kramdown
 permalink: /:title
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 paginate: 3
 paginate_path: blog/page:num/
 
@@ -25,3 +25,6 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
+
+# plugins_dir:
+#   - jekyll-sitemap
