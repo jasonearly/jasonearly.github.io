@@ -419,9 +419,10 @@ margin-bottom: 5em;
 {
   li { border-bottom: 1px solid #ccc;
     margin-bottom: 2em;
-  a:first-child{ font-size: 2.618em;
-  font-weight: 700;
-    font-family:"proxima-nova",sans-serif;}
+
+      .title{ font-size: 2.618em;
+      font-weight: 700;
+      font-family:"proxima-nova",sans-serif;}
   }
   p{
     font-size: 1.618em;

@@ -23,5 +23,5 @@ It's a very thorough UX course that really aligns with ideas I'm had about moder
 If you are interested in learning either UX Design, iOS/Android Development, Frontend Web Development, or Become a Full Stack Web Developer the link below with save you $100  
 <br/>
 
-[Join Bloc.io](https://www.bloc.io/?ref_token=MjI4Njk2OQ "Save $100 on your Bloc Apprenticeship") and save $100 on your Bloc Apprenticeship.
+<!-- [Join Bloc.io](https://www.bloc.io/?ref_token=MjI4Njk2OQ "Save $100 on your Bloc Apprenticeship") and save $100 on your Bloc Apprenticeship. -->
 <br/>
