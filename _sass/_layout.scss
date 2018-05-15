@@ -104,7 +104,7 @@
 
 p.description{
 color: $grey-color-dark;
-font-size: 1em;
+font-size: 16px;
 line-height: 1.5em;
 }
 
@@ -253,7 +253,7 @@ line-height: 1.5em;
         font-size: 26px;
 
         @include media-query($on-laptop) {
-            font-size: 1.618em;
+            font-size: 16px;
 
         }
     }
