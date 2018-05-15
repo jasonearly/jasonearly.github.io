@@ -3,4 +3,3 @@ _site
 .jekyll-metadata
 img/logos/
 node_modules/
-Gemfile.lock
