@@ -8,44 +8,48 @@ if (workbox) {
   console.log("Boo! Workbox didn't load 😬");
 }
 
-
-// Offline Analytics
-workbox.googleAnalytics.initialize();
-
-// Cache CSS and JS files
-workbox.routing.registerRoute(
-  /\.(?:js|css|html)$/,
-  workbox.strategies.staleWhileRevalidate({
-    cacheName: 'static-resources',
-  }),
-);
-
-// Cache images
-workbox.routing.registerRoute(
-  /\.(?:png|gif|jpg|jpeg|svg)$/,
-  workbox.strategies.staleWhileRevalidate({
-    cacheName: 'images',
-    plugins: [
-      new workbox.expiration.Plugin({
-        maxEntries: 60,
-        maxAgeSeconds: 30 * 24 * 60 * 60, // 30 Days
-      }),
-    ],
-  }),
-);
-
-// Cache google fonts
-workbox.routing.registerRoute(
-  new RegExp('https://fonts.(?:googleapis|gstatic).com/(.*)'),
-  workbox.strategies.staleWhileRevalidate({
-    cacheName: 'googleapis',
-    plugins: [
-      new workbox.expiration.Plugin({
-        maxEntries: 30,
-      }),
-    ],
-  }),
-);
+//
+// workbox.precaching.precacheAndRoute([]);
+//
+//
+//
+// // Offline Analytics
+// workbox.googleAnalytics.initialize();
+//
+// // Cache CSS and JS files
+// workbox.routing.registerRoute(
+//   /\.(?:js|css)$/,
+//   workbox.strategies.staleWhileRevalidate({
+//     cacheName: 'static-resources',
+//   }),
+// );
+//
+// // Cache images
+// workbox.routing.registerRoute(
+//   /\.(?:png|gif|jpg|jpeg|svg)$/,
+//   workbox.strategies.staleWhileRevalidate({
+//     cacheName: 'images',
+//     plugins: [
+//       new workbox.expiration.Plugin({
+//         maxEntries: 60,
+//         maxAgeSeconds: 30 * 24 * 60 * 60, // 30 Days
+//       }),
+//     ],
+//   }),
+// );
+//
+// // Cache google fonts
+// workbox.routing.registerRoute(
+//   new RegExp('https://fonts.(?:googleapis|gstatic).com/(.*)'),
+//   workbox.strategies.staleWhileRevalidate({
+//     cacheName: 'googleapis',
+//     plugins: [
+//       new workbox.expiration.Plugin({
+//         maxEntries: 30,
+//       }),
+//     ],
+//   }),
+// );
 
 
 
