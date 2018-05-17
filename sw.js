@@ -10,6 +10,8 @@ if (workbox) {
 
 workbox.googleAnalytics.initialize();
 
+workbox.precaching.precacheAndRoute([]);
+
 workbox.routing.registerRoute(
   new RegExp('/(.*)'),
   workbox.strategies.staleWhileRevalidate(),
