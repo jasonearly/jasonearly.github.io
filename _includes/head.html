@@ -38,6 +38,11 @@ section.hero {
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
+  <link rel="preload" href="{{ "/css/main.css" | prepend: site.baseurl }}" as="style">
+  <link rel="preload" href="js/jq-1-12-4.min.js" as="script">
+  <link rel="preload" href="js/bootstrap.min.js" as="script">
+  <link rel="preload" href="js/jasny-bootstrap.min.js" as="script">
+  <link rel="preload" href="js/app.js" as="script">
   <!-- Latest compiled and minified CSS -->
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
 
