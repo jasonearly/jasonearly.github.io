@@ -38,7 +38,7 @@ if ('serviceWorker' in navigator) {
 
    <script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <!-- <script async src="js/jq-3-3-1.min.js"></script> -->
-   <script async src="js/app.js"></script>
+   <script async src="{{ "js/app.js" | prepend: site.baseurl }}"></script>
   <!-- </body> -->
 
 </html>
