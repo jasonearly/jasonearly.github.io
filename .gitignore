@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 img/logos/
 node_modules/
+/work/img-unoptim
+/img-unoptim
