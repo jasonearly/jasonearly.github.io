@@ -18,6 +18,11 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
+  new RegExp('/work/img/(.*)'),
+  workbox.strategies.staleWhileRevalidate(),
+);
+
+workbox.routing.registerRoute(
   // Cache CSS files
   /.*\.css/,
   // Use cache but update in the background ASAP
