@@ -112,3 +112,4 @@
 
   //$('section.hero').height(vph);
   $('.overlay').height(vph);
+  
