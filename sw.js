@@ -43,7 +43,6 @@ addEventListener('fetch', function (fetchEvent){
 
 
 
-
 //
 // Scripts and recipies from Workbox
 //
