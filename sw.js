@@ -1,4 +1,5 @@
-const staticCacheName = 'staticFiles';
+const version = 'v0.01';
+const staticCacheName = version + 'staticFiles';
 
 
 console.log('Hello from sw.js');
@@ -6,10 +7,13 @@ console.log('Hello from sw.js');
 
 // install and add to cache
 addEventListener('install', function (installEvent){
+  // cache some files
   console.log('The service worker is installing...');
+  skipWaiting();
   installEvent.waitUntil(
     caches.open(staticCacheName)
     .then(staticCache => {
+        console.log('Adding to cache');
       //nice to haves
        staticCache.addAll([
         // static files to cache
@@ -20,8 +24,8 @@ addEventListener('install', function (installEvent){
       // must haves
       return staticCache.addAll([
         // static files to cache
-        // '/path/styles.css',
-        // '/path/js/app.js',
+         '/css/main.css',
+         '/js/app.js',
       ]); //end return addAll
 
     }) //end then
@@ -30,9 +34,25 @@ addEventListener('install', function (installEvent){
 
 
 
-addEventListener('activate', function (event){
+addEventListener('activate', function (activateEvent){
+  // delete old caches
   console.log('The service worker is activated.');
-});
+  activateEvent.waitUntil(
+    caches.keys()
+    .then(cacheNames => {
+      return Promise.all(
+        cacheNames.map( cacheName => {
+          if (cacheName != staticCacheName) {
+            return caches.delete(cacheName);
+          } //end if
+        }) // end map
+      ); // end return Promise.all
+    }) // end keys then
+    .then( () => {
+      return clients.claim();
+    }) // end then
+  ); //end waitUntil
+}); // end addEventListener
 
 
 
@@ -45,9 +65,11 @@ addEventListener('fetch', function (fetchEvent){
     caches.match(request)
     .then(responseFromCache => {
       if (responseFromCache) {
+        console.log('fetching from cache');
         return responseFromCache;
       } // end if
       // otherwise fetch from network
+      console.log('fetching from network');
       return fetch(request);
     }) // end match then
 
