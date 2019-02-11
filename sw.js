@@ -1,4 +1,4 @@
-const version = 'v0.01';
+const version = 'v0.04';
 const staticCacheName = version + 'staticFiles';
 
 
@@ -26,6 +26,7 @@ addEventListener('install', function (installEvent){
         // static files to cache
          '/css/main.css',
          '/js/app.js',
+         '/offline.html'
       ]); //end return addAll
 
     }) //end then
@@ -70,23 +71,27 @@ addEventListener('fetch', function (fetchEvent){
       } // end if
       // otherwise fetch from network
       console.log('fetching from network');
-      return fetch(request);
+      return fetch(request)
+      .catch(error => {
+        //show a fallback/offline page instead
+        return caches.match('/offline.html');
+    }); // end fetch catch
     }) // end match then
 
 
-    // .then(responseFromFetch =>{
-    //   return responseFromFetch;
-    // }) //end fetch then
+                // .then(responseFromFetch =>{
+                //   return responseFromFetch;
+                // }) //end fetch then
 
 
-    // if offline/no network connection show this
-    .catch(error => {
-      return new Response('<h1>Oops!</h1> <p>Something went wrong.</p>',
-      {
-        headers: {'Content-type' : 'text/html; charset=utf-8'}
-      }
-    );
-  }) // end feth catch
+                // if offline/no network connection show this
+              //   .catch(error => {
+              //     return new Response('<h1>Oops!</h1> <p>Something went wrong.</p>',
+              //     {
+              //       headers: {'Content-type' : 'text/html; charset=utf-8'}
+              //     }
+              //   );
+              // }) // end feth catch
 
 ); // end respondWith
 }); // end addEventListener
