@@ -1,5 +1,12 @@
-const version = 'v0.04';
+const version = 'v0.02';
 const staticCacheName = version + 'staticFiles';
+const imageCacheName = 'images';
+
+const cacheList = [
+  staticCacheName,
+  imageCacheName
+];
+
 
 
 console.log('Hello from sw.js');
@@ -61,39 +68,100 @@ addEventListener('fetch', function (fetchEvent){
   // console.log('The service worker is listening.');
   const request = fetchEvent.request;
 
+// When user req Pages > Network first -> Offline Fallback
+  if (request.headers.get('Accept').includes('text/html')){
+    fetchEvent.respondWith(
+      //fetch page from network
+      fetch(request)
+      .catch(error => {
+        //otherwise show fallback
+        return caches.match('/offline.html');
+      }) // end fetch catch
+    ); // end respond with
+    return; // go no further
+  } //end if
+
+
+// When user req Images > Cache first -> network backup -> offline fallback
+if (request.headers.get('Accept').includes('image'))
+{
   fetchEvent.respondWith(
-    // first look in cache
+    //Look for cached version of images
     caches.match(request)
     .then(responseFromCache => {
       if (responseFromCache) {
-        console.log('fetching from cache');
         return responseFromCache;
-      } // end if
-      // otherwise fetch from network
-      console.log('fetching from network');
-      return fetch(request)
-      .catch(error => {
-        //show a fallback/offline page instead
-        return caches.match('/offline.html');
-    }); // end fetch catch
-    }) // end match then
+      } //end if
+        // otherwise fetch image from Network
+        return fetch(request)
+        .then (responseFromFetch => {
+          //put a copy in cache
+          const copy = responseFromFetch.clone();
+          fetchEvent.waitUntil(
+            caches.open(imageCacheName)
+            .then( imageCache => {
+              return imageCache.put(request, copy);
+            }) // end open then
+          ); // end waituntil
+          return responseFromFetch;
+        }); // end fetch then return
+      }) // end match then
+    ); // end respondWith
+    return; // go no further
+} // end if
 
 
-                // .then(responseFromFetch =>{
-                //   return responseFromFetch;
-                // }) //end fetch then
-
-
-                // if offline/no network connection show this
-              //   .catch(error => {
-              //     return new Response('<h1>Oops!</h1> <p>Something went wrong.</p>',
-              //     {
-              //       headers: {'Content-type' : 'text/html; charset=utf-8'}
-              //     }
-              //   );
-              // }) // end feth catch
-
+// For everything else (CSS/JS)...
+fetchEvent.respondWith(
+  // look for a cahced copy of the file
+  caches.match(request)
+  .then( responseFromCache => {
+    if (responseFromCache) {
+      return responseFromCache;
+    } // end if
+    // otherwise fetch from Network
+    return fetch(request);
+  }) // end match then
 ); // end respondWith
+
+
+// All fetch Cache first -> network backup -> offline fallback
+//   fetchEvent.respondWith(
+//     // first look in cache
+//     caches.match(request)
+//     .then(responseFromCache => {
+//       if (responseFromCache) {
+//         console.log('fetching from cache');
+//         return responseFromCache;
+//       } // end if
+//       // otherwise fetch from network
+//       console.log('fetching from network');
+//       return fetch(request)
+//       .catch(error => {
+//         //show a fallback/offline page instead
+//         return caches.match('/offline.html');
+//     }); // end fetch catch
+//     }) // end match then
+//
+//
+//                 // .then(responseFromFetch =>{
+//                 //   return responseFromFetch;
+//                 // }) //end fetch then
+//
+//
+//                 // if offline/no network connection show this
+//               //   .catch(error => {
+//               //     return new Response('<h1>Oops!</h1> <p>Something went wrong.</p>',
+//               //     {
+//               //       headers: {'Content-type' : 'text/html; charset=utf-8'}
+//               //     }
+//               //   );
+//               // }) // end feth catch
+//
+// ); // end respondWith
+
+
+
 }); // end addEventListener
 
 
