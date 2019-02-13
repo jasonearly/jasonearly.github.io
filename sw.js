@@ -1,10 +1,12 @@
-const version = 'v0.02';
+const version = 'v0.026';
 const staticCacheName = version + 'staticFiles';
 const imageCacheName = 'images';
+const pagesCacheName = 'pages';
 
 const cacheList = [
   staticCacheName,
-  imageCacheName
+  imageCacheName,
+  pagesCacheName
 ];
 
 
@@ -33,7 +35,8 @@ addEventListener('install', function (installEvent){
         // static files to cache
          '/css/main.css',
          '/js/app.js',
-         '/offline.html'
+         '/offline.html',
+         '/fallback.svg'
       ]); //end return addAll
 
     }) //end then
@@ -68,14 +71,32 @@ addEventListener('fetch', function (fetchEvent){
   // console.log('The service worker is listening.');
   const request = fetchEvent.request;
 
-// When user req Pages > Network first -> Offline Fallback
+// When user req Pages > Network first -> then cache -> Offline Fallback
   if (request.headers.get('Accept').includes('text/html')){
     fetchEvent.respondWith(
       //fetch page from network
       fetch(request)
+      .then(responseFromFetch => {
+        // put a copy in cache
+        const copy = responseFromFetch.clone();
+        fetchEvent.waitUntil(
+          caches.open(pagesCacheName)
+          .then( pagesCache => {
+            return pagesCache.put(request, copy);
+          }) // end open then
+      ); // end waitUntil
+      return responseFromFetch;
+    }) // end fetch then
       .catch(error => {
-        //otherwise show fallback
-        return caches.match('/offline.html');
+        // otherwise look in cache
+        return caches.match(request)
+        .then(responseFromCache => {
+          if (responseFromCache) {
+            return responseFromCache;
+          } // end if
+          //otherwise show fallback
+          return caches.match('/offline.html');
+        }); // end then match and return
       }) // end fetch catch
     ); // end respond with
     return; // go no further
@@ -90,6 +111,18 @@ if (request.headers.get('Accept').includes('image'))
     caches.match(request)
     .then(responseFromCache => {
       if (responseFromCache) {
+        // fetch fresh Images from Network
+        fetchEvent.waitUntil(
+          fetch(request)
+          .then(responseFromFetch => {
+            // update the cache
+            caches.open(imageCacheName)
+            .then(imageCache => {
+              return imageCache.put(request, responseFromFetch);
+            }); // end open then
+          }) // end fetch then
+        ); // end waitUntil
+
         return responseFromCache;
       } //end if
         // otherwise fetch image from Network
@@ -104,7 +137,11 @@ if (request.headers.get('Accept').includes('image'))
             }) // end open then
           ); // end waituntil
           return responseFromFetch;
-        }); // end fetch then return
+        }) // end fetch then
+        .catch(error => {
+          // otherwise show fallback image
+          return caches.match('/fallback.svg');
+        }); // end fetch catch and return
       }) // end match then
     ); // end respondWith
     return; // go no further
