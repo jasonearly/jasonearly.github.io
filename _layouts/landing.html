@@ -26,6 +26,11 @@ if (navigator.serviceWorker) {
     .catch(function(error){
       console.error('Failure!', error);
     });
+    if (navigator.serviceWorker.controller){
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.controller.postMessage('clean up caches');
+      });
+    }
 }
 
 // Check that service workers are registered

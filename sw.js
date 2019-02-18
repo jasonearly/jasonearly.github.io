@@ -1,4 +1,4 @@
-const version = 'v0.026';
+const version = 'v0.03';
 const staticCacheName = version + 'staticFiles';
 const imageCacheName = 'images';
 const pagesCacheName = 'pages';
@@ -9,6 +9,46 @@ const cacheList = [
   pagesCacheName
 ];
 
+function trimCache(cacheName, maxItems){
+  caches.open(cacheName)
+  .then( cache => {
+    cache.keys()
+    .then( items => {
+      if (items.length > maxItems) {
+        cache.delete(items[0])
+        .then(
+          trimCache(cacheName, maxItems)
+        ); // end delete then
+      } // end if
+    }); // end keys then
+  }); // end open
+} // end function
+
+
+
+
+async function stashInCache (request, cacheName){
+  // fetch the file
+const responseFromFetch =  await fetch(request);
+  // .then(responseFromFetch => {
+
+  // open the cache
+const theCache =  await  caches.open(cacheName);
+    // .then (theCache => {
+
+  // put the file into the cache
+return await theCache.put(request, responseFromFetch);
+  //   }); // end open then
+  // }); // end fetch then
+}
+
+addEventListener('message', messageEvent => {
+  //console.log(messageEvent.data);
+  if (messageEvent.data == 'clean up caches'){
+    trimCache(pagesCacheName, 20);
+    trimCache(imageCacheName, 50);
+  }
+});
 
 
 console.log('Hello from sw.js');
@@ -112,7 +152,9 @@ if (request.headers.get('Accept').includes('image'))
     .then(responseFromCache => {
       if (responseFromCache) {
         // fetch fresh Images from Network
+        // fetch and cache a fresh version
         fetchEvent.waitUntil(
+          // return stashInCache(request, imageCacheName); //throws an error
           fetch(request)
           .then(responseFromFetch => {
             // update the cache
@@ -120,6 +162,7 @@ if (request.headers.get('Accept').includes('image'))
             .then(imageCache => {
               return imageCache.put(request, responseFromFetch);
             }); // end open then
+
           }) // end fetch then
         ); // end waitUntil
 
