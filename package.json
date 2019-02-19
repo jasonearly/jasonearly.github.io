@@ -17,6 +17,7 @@
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-pngquant": "^6.0.0",
     "run-sequence": "^1.1.0",
-    "cryptiles": ">=4.1.2"
+    "cryptiles": ">=4.1.2",
+    "extend": ">=3.0.2"
   }
 }
