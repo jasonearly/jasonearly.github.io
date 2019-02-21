@@ -1,6 +1,6 @@
 {
   "lang": "en",
-  "short_name": "Jason-Early",
+  "short_name": "Jason Early",
   "name": "Jason Early",
   "description": "Jason Early is a User Experience Designer & Front-End Developer.",
   "icons": [
@@ -19,5 +19,6 @@
   "background_color": "#5F656A",
   "display": "standalone",
   "scope": "https://jasonearly.com",
-  "theme_color": "#5F656A"
+  "theme_color": "#5F656A",
+  "orientation" : "natural",
 }
