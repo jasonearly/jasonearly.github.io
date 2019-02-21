@@ -20,5 +20,5 @@
   "display": "standalone",
   "scope": "https://jasonearly.com",
   "theme_color": "#5F656A",
-  "orientation" : "natural",
+  "orientation" : "natural"
 }
