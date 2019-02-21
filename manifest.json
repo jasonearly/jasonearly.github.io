@@ -18,7 +18,7 @@
   "start_url": "/?utm_source=homescreen",
   "background_color": "#5F656A",
   "display": "standalone",
-  "scope": "https://jasonearly.com",
+  "scope": "https://jasonearly.com/*",
   "theme_color": "#5F656A",
   "orientation" : "natural"
 }
