@@ -15,10 +15,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=standalone&utm_medium=pwa",
+  "start_url": "https://jasonearly.com",
   "background_color": "#5F656A",
   "display": "standalone",
-  "scope": "https://jasonearly.com/*",
+  "scope": "https://jasonearly.com",
   "theme_color": "#5F656A",
   "orientation" : "natural"
 }
