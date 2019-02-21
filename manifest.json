@@ -15,7 +15,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/?utm_source=standalone&utm_medium=pwa",
   "background_color": "#5F656A",
   "display": "standalone",
   "scope": "https://jasonearly.com/*",
