@@ -33,7 +33,8 @@ UX Design Specialist | Leads the design and development of Joinesty's products t
 <br/>
 
 **General Assembly** / *2015 - Present*  
-UX Design Mentor (UXC) | Guides emerging designers in GA's online UX Design program.  
+Front-End Development Mentor (HCD Circuit) | Guides emerging developers in GA's online Front-End Development program. 
+UX Design Mentor (UXD-On Demand) | Guides emerging designers in GA's online UX Design program.  
 UX Design Instructor (UXDI) | Lead the instructional team of GA Chicago's full-time program.  
 UX Design Teaching Assistant (UXD) | Assists in the teaching of GA Chicago's part-time program.    
 
