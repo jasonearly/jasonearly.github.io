@@ -6,9 +6,9 @@ title: Experience | Jason Early
 
 ## SUMMARY
 I'm the Founder & Designer of [gruntmonkey](https://gruntmonkey.com/ "gruntmonkey"), a small design practice specializing in process and  problem solving through communication, digital media and iterative development. I'm also a maker of limited edition show posters through [The Poster Works](http://theposterworks.com/ "The Poster Works"), Mentor, coffee roaster, devout fan of baseball and an advocate on the importance of designs' impact upon all aspects of our lives.  
-  <br/>
+
 <hr>
-<br/>
+
 
 **SKILLS**  
 -- Connecting Brands with audiences  
@@ -17,14 +17,14 @@ I'm the Founder & Designer of [gruntmonkey](https://gruntmonkey.com/ "gruntmonke
 -- Utilizing marketing to generate new customers  
 -- Product development based on audience research    
 
-<br/>  
-**TOOLKIT**  <br/>
+
+**TOOLKIT**  
 UX Design / Brand Development / Strategic Communications / Concept Development /
 Visual Design / Mobile Design / Web Design / Front-End Development  
 
-<br/>
+
 <hr>
-<br/>
+
 
 ## EXPERIENCE  
 **Joinesty** / *2017*  
@@ -33,10 +33,10 @@ UX Design Specialist | Leads the design and development of Joinesty's products t
 <br/>
 
 **General Assembly** / *2015 - Present*  
-Front-End Development Mentor (HCD Circuit) | Guides emerging developers in GA's online Front-End Development program.
-UX Design Mentor (UXD-On Demand) | Guides emerging designers in GA's online UX Design program.  
-UX Design Instructor (UXDI) | Lead the instructional team of GA Chicago's full-time program.  
-UX Design Teaching Assistant (UXD) | Assists in the teaching of GA Chicago's part-time program.    
+-- Front-End Development Mentor (HCD Circuit) | Guides emerging developers in GA's online Front-End Development program.  
+-- UX Design Mentor (UXD-On Demand) | Guides emerging designers in GA's online UX Design program.  
+-- UX Design Instructor (UXDI) | Lead the instructional team of GA Chicago's full-time program.  
+-- UX Design Teaching Assistant (UXD) | Assists in the teaching of GA Chicago's part-time program.    
 
 <br/>
 
@@ -45,11 +45,13 @@ Founder / Designer | Designs and develops effective solutions that help clients 
 implement, and evolve their business into successful ventures.  
 
 <br/>
+
 **Bloc.io** / *2014 - 2015*  
 UX Design Mentor | Provides professional and entrepreneurial guidance to emerging designers
 who are participating in Bloc's UX Design curriculum.  
 
 <br/>
+
 **PhishMe, Inc.** / *2013 - 2014*  
 Designer / Front-End Developer | Designed and developed the new user interface for
 PhishMe's industry leading security training product.  
@@ -90,9 +92,8 @@ Graphic Artist | Created graphics, interactive simulations & animations used in 
 Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.  
 <!-- *Web development and design* -->
 
-<br/>
+
 <hr>
-<br/>
 
 **PUBLICATIONS**  
 -- Logo Lounge, Book 8 | *2014*  
@@ -117,9 +118,9 @@ Designer | Created designs for web and print media, oversaw all aspects of web d
 -- HOW Live / Creative Freelancer Conference, Boston | *2012*  
 -- DePaul University, Chicago | *2012*  
 
-<br/>
+
 <hr>
-<br/>
+
 
 ## EDUCATION
 **SELF INITIATED**  
