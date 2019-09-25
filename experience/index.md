@@ -18,7 +18,7 @@ I'm the Founder & Designer of [gruntmonkey](https://gruntmonkey.com/ "gruntmonke
 -- Product development based on audience research    
 
 <br/>  
-**TOOLKIT**<br/>
+**TOOLKIT**  <br/>
 UX Design / Brand Development / Strategic Communications / Concept Development /
 Visual Design / Mobile Design / Web Design / Front-End Development  
 
