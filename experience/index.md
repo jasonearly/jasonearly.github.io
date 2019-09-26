@@ -7,7 +7,9 @@ title: Experience | Jason Early
 ## SUMMARY
 I'm the Founder & Designer of [gruntmonkey](https://gruntmonkey.com/ "gruntmonkey"), a small design practice specializing in process and  problem solving through communication, digital media and iterative development. I'm also a maker of limited edition show posters through [The Poster Works](http://theposterworks.com/ "The Poster Works"), Mentor, coffee roaster, devout fan of baseball and an advocate on the importance of designs' impact upon all aspects of our lives.  
 
+<br/>
 <hr>
+<br/>
 
 
 **SKILLS**  
@@ -22,9 +24,9 @@ I'm the Founder & Designer of [gruntmonkey](https://gruntmonkey.com/ "gruntmonke
 UX Design / Brand Development / Strategic Communications / Concept Development /
 Visual Design / Mobile Design / Web Design / Front-End Development  
 
-
+<br/>
 <hr>
-
+<br/>
 
 ## EXPERIENCE  
 **Joinesty** / *2017*  
@@ -93,7 +95,9 @@ Designer | Created designs for web and print media, oversaw all aspects of web d
 <!-- *Web development and design* -->
 
 
+<br/>
 <hr>
+<br/>
 
 **PUBLICATIONS**  
 -- Logo Lounge, Book 8 | *2014*  
@@ -119,7 +123,9 @@ Designer | Created designs for web and print media, oversaw all aspects of web d
 -- DePaul University, Chicago | *2012*  
 
 
+<br/>
 <hr>
+<br/>
 
 
 ## EDUCATION
