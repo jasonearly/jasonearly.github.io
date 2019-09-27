@@ -111,5 +111,4 @@
   vph = $(window).height();
 
   //$('section.hero').height(vph);
-  $('.overlay').height(vph);
-  
+  // $('.overlay').height(vph);
