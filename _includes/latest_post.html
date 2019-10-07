@@ -1,4 +1,4 @@
-<section class="latest_post">
+<!-- <section class="latest_post">
   <div class="container-fluid">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 text-left">
@@ -12,4 +12,12 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
+
+
+
+<section class="latest-post">
+    <h6>LATEST ARTICLE: {% for post in site.posts limit:1 %}
+      <a class="article-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {% endfor %}</h6>
+    </section>

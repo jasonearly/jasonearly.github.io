@@ -5,12 +5,8 @@
   {% include head.html %}
   {% include nav.html %}
 
-  <!-- <body> -->
-  <!-- <div class="page-content">-->
-    <div class="container-fluid"> <!-- <div class="wrapper">-->
-        {{ content }}
-
-    </div>
+  <body>
+    {% include hero.html %}
 
     {% include latest_post.html %}
 
@@ -55,6 +51,6 @@ if (navigator.serviceWorker) {
    <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <!-- <script async src="js/jq-3-3-1.min.js"></script> -->
    <script async src="{{ "js/app.js" | prepend: site.baseurl }}"></script>
-  <!-- </body> -->
+  </body>
 
 </html>
