@@ -420,6 +420,49 @@ nav.expanded #navigation {
   background-color: #fff;
 }
 
+.project-grid{
+   background-color: #e8e8e8;
+   padding: 25px 117.8px;
+
+   h3{
+     color: #5d6569;
+     padding-bottom: 0;
+   }
+}
+
+/* Grid fallback*/
+
+.grid__item {
+  display: inline-block;
+  width: 33%;
+}
+
+/* Styling CSS grid*/
+
+.grid{
+   background-color: #e8e8e8;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 20px;
+}
+
+.grid__item {
+  background-color: lightgray;
+  padding: 3rem;
+  /* Set width to auto*/
+width: auto;
+
+
+  &:first-child {
+    grid-column: 1 / 3;
+  grid-row: 1 / 2;
+  }
+}
+
+/* End CSS grid*/
+
+
+
 section.ga {
 width: 100%;
 background-color: $background-color;
