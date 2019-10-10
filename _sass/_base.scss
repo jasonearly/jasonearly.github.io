@@ -439,10 +439,14 @@ nav.expanded #navigation {
 
 /* Styling CSS grid*/
 
+
+
+
 .grid{
    background-color: #e8e8e8;
    display: grid;
    grid-template-columns: 1fr 1fr 1fr;
+   // grid-template-rows: 100px 100px;
    grid-gap: 20px;
 }
 
@@ -455,12 +459,29 @@ width: auto;
 
   &:first-child {
     grid-column: 1 / 3;
-  grid-row: 1 / 2;
+  grid-row: 1 / 3;
   }
 }
 
 /* End CSS grid*/
 
+.grid-item-container{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  // overflow: hidden;
+  // border-radius: 20px;
+  // box-shadow: 0 20px 40px rgba(0,0,0, 0.15);
+  display: grid;
+  grid-template-rows: .25fr 1fr;
+  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+  cursor: pointer;
+  z-index: 0;
+
+  a:link{
+    align-self: end;
+  }
+}
 
 
 section.ga {
