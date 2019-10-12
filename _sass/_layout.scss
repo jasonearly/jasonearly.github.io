@@ -93,7 +93,11 @@
  */
 .site-footer {
    // border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+padding: 20px 8vw;
+    // padding: $spacing-unit 0;
     background-color: $grey-color-light;
 
     @media only screen and (max-width: 768px)
@@ -101,6 +105,36 @@
        padding-bottom: 0;
      }
 }
+
+.footer-bio{
+  padding-right: 3vw;
+  width: 61%;
+  margin-right: 5px;
+}
+
+.footer-cta{
+  background-color: #d7d7d7;
+  padding: 2em;
+  text-align: center;
+  height: 100%;
+
+  & #booking{
+    margin-top: 1em;
+    background-color: #ffa305;
+    color: #2b2b2b;
+    height: auto;
+    text-transform: uppercase;
+    font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    line-height: 17px;
+    padding: 10px 28px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 1rem;
+    display: inline-block;
+  }
+}
+
 
 .footer-heading {
     font-size: 18px;
