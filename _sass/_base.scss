@@ -257,7 +257,7 @@ nav.expanded {
   height: 100%;
   position: fixed;
   cursor: default;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,255,255,1);
 }
 
 /* positions navigation content */
@@ -465,6 +465,12 @@ nav.expanded #navigation {
   padding: 3rem;
   /* Set width to auto*/
 width: auto;
+transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+
+&:hover {
+    transform: scale(1.1, 1.1);
+    box-shadow: 0 30px 60px rgba(0,0,0, 0.5);
+}
 
 
   &:first-child {

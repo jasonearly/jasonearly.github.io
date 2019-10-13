@@ -96,7 +96,7 @@
    display: flex;
    flex-direction: row;
    width: 100%;
-padding: 20px 8vw;
+padding: 20px 10vw;
     // padding: $spacing-unit 0;
     background-color: $grey-color-light;
 
@@ -108,8 +108,9 @@ padding: 20px 8vw;
 
 .footer-bio{
   padding-right: 3vw;
-  width: 61%;
+  width: 55%;
   margin-right: 5px;
+  flex-grow: 1;
 }
 
 .footer-cta{
@@ -117,6 +118,7 @@ padding: 20px 8vw;
   padding: 2em;
   text-align: center;
   height: 100%;
+  flex-grow: 2;
 
   & #booking{
     margin-top: 1em;
