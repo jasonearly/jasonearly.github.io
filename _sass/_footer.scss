@@ -21,6 +21,35 @@ padding: 20px 10vw;
      }
 }
 
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+    font-weight: 900;
+    margin-bottom: 15px;
+    margin-top: 20px;
+
+    li{
+        font-size: 1.31em;
+        display: inline;
+        margin-right: 1em;
+        color: $grey-color-dark;
+    }
+}
+
+//font awesome calls//
+.fa-dribbble , .fa-twitter, .fa-linkedin, .fa-github{
+  margin: 0;
+}
+
+.social-media-list li  a{
+  color: #828282;
+}
+
+.social-media-list li  a:hover{
+  color: #424242;
+}
+
 .footer-bio{
   padding-right: 3vw;
   width: 55%;
