@@ -50,11 +50,12 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "bootstrap",
-        "jasny-bootstrap",
-        "font-awesome",
+        // "jasny-bootstrap",
         "base",
         "layout",
-        "syntax-highlighting",
+        "font-awesome",
+
+        // "syntax-highlighting",
         "nav",
         "hero",
         "latest-post",
