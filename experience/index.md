@@ -86,7 +86,7 @@ Graphic Artist | Created graphics, interactive simulations & animations used in 
 
 
 **Dreamscape Design Inc.**  / *2000 - 2002*  
-Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.  
+Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.  
 <!-- *Web development and design* -->
 
 
