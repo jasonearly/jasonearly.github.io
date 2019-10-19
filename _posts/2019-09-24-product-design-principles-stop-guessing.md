@@ -2,7 +2,7 @@
 layout: post
 title:  "Product Design Principles - Stop Guessing"
 date:   2019-09-24
-categories: archive digital privacy
+categories: archive product design process
 ---
 
 ## Stop wasting time
@@ -37,7 +37,7 @@ It’s always best to use both types of research together. It gives a fuller pic
 #### Surveys that impact product design
 Surveys are a fast way to learn about your customer because they can be easy to send out, and you can automate them, saving you time and allowing you to run them while you focus on other tasks.
 
-But there is an art to creating an effective survey. GV, google’s venture business has a [fantastic guide](https://library.gv.com/improve-your-startup-s-surveys-and-get-even-better-data-7b0272f74c23#.uxkcogqna) that will help you avoid mistakes if you are starting out. 
+But there is an art to creating an effective survey. GV, google’s venture business has a [fantastic guide](https://library.gv.com/improve-your-startup-s-surveys-and-get-even-better-data-7b0272f74c23#.uxkcogqna) that will help you avoid mistakes if you are starting out.
 
 Here are some takeaways to create effective surveys
 -   Start with clear goals about what you want to understand. And know a survey may not be the best way to reach those goals.  
