@@ -5,7 +5,7 @@ date:   2019-10-19
 categories: archive product design process
 ---
 
-## Think Divergently
+<!-- ## Think Divergently -->
 
 Tell me if this sounds familiar. You start working with a designer and they jump directly onto their computer open up their tool of choice p\for example Sketch/Figma/Photoshop and start making precise layouts to represent what they think you want. Precision has a place in the design process, but not at the beginning when ideas haven’t solidified. This direct to computer approach to production is short-sighted and should raise some concerns.
 

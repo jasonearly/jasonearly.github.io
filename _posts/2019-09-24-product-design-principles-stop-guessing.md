@@ -5,7 +5,7 @@ date:   2019-09-24
 categories: archive product design process
 ---
 
-## Stop wasting time
+<!-- ## Stop wasting time -->
 
 Creating a successful product is hard. There are a multitude of factors that have to align just right. The product has to have the right features for the right audience in the right market and be available at the right time. If any one of those factors are off in your planning you end up wasting time and money that may put your business in a difficult financial situation.
 
