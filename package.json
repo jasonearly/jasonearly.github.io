@@ -3,7 +3,7 @@
   "dependencies": {
     "cryptiles": ">=4.1.2",
     "extend": ">=3.0.2",
-    "glob": "^7.1.4",
+    "glob": "^7.1.6",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^2.2.0",
     "gulp-cloudflare": "^0.1.2",
