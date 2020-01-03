@@ -1,0 +1,27 @@
+
+@media print {
+#nav-left, .footer-cta, .clients {display: none;}
+.post-content{
+  width: 90%; margin-top:20%;
+  p{font-family: "pt-serif"}
+  margin-bottom: 0;
+}
+.site-footer {
+    padding-left: 7%;
+    padding-right: 5%;
+    position: absolute;
+    top: 0;
+    width: 65%;
+  }
+  .social-media-list {
+    font-size: 1.2rem;
+    font-weight: normal;
+    position: absolute;
+    right: -250px;
+    top: 24px;
+    li{display: block;}
+  }
+#experience, #education{
+  margin-top: 0;
+}
+}
