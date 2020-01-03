@@ -1,17 +1,31 @@
-
 @media print {
-#nav-left, .footer-cta, .clients {display: none;}
-.post-content{
-  width: 90%; margin-top:20%;
-  p{font-family: "pt-serif"}
-  margin-bottom: 0;
-}
-.site-footer {
+  #nav-left,
+  .footer-cta,
+  .clients {
+    display: none;
+  }
+  .post-content {
+    width: 90%;
+    margin-top: 20%;
+    margin-bottom: 0;
+    p {
+      font-family: "pt-serif";
+      line-height: 1.5em;
+      font-size: 1em;
+    }
+  }
+  .site-footer {
     padding-left: 7%;
     padding-right: 5%;
     position: absolute;
     top: 0;
     width: 65%;
+  }
+  .contact-list li {
+    font-size: 1.8em;
+  }
+  hr {
+    margin: 15px 0;
   }
   .social-media-list {
     font-size: 1.2rem;
@@ -19,9 +33,15 @@
     position: absolute;
     right: -250px;
     top: 24px;
-    li{display: block;}
+    li {
+      display: block;
+      font-family: "pt-serif";
+      font-size: 1.2em;
+    }
   }
-#experience, #education{
-  margin-top: 0;
-}
+  h2#experience,
+  h2#education {
+    margin-top: 0;
+    margin-bottom: 2%;
+  }
 }
