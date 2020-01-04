@@ -86,7 +86,10 @@ Sketching first has a multitude of benefits. It’s accessible to all. You don�
 
 Here’s a to-do list to push sketching into practice:
 
-- **Generate dozens of ideas on paper before transitioning to the computer.** Sketching helps you discover unexpected ideas.
-- **Get stakeholders involved by conducting a team sketching exercise like 6-8-5.** It adds clarity for all involved and it creates shared ownership of the project.
-- **If your team is remote use a USB document camera to share sketches and ideate as a team.**
-- **Embrace constraints like fat tip markers and time limits to keep from getting focused on the details too soon.** Remember designing is an iterative process. Start wide then narrow in.
+**Generate dozens of ideas on paper before transitioning to the computer.** Sketching helps you discover unexpected ideas.
+
+**Get stakeholders involved by conducting a team sketching exercise like 6-8-5.** It adds clarity for all involved and it creates shared ownership of the project.
+
+**If your team is remote use a USB document camera to share sketches and ideate as a team.**
+
+**Embrace constraints like fat tip markers and time limits to keep from getting focused on the details too soon.** Remember designing is an iterative process. Start wide then narrow in.
