@@ -63,17 +63,11 @@ Design Intern | Created promotional materials for Illinois State University’s 
 **Daily Vidette** / _2007 - 2008_  
 Online Editor | Posted news and coordinating media to the online edition of the newspaper on a daily basis.
 
-<!-- *Illinois State University’s student-run Newspaper* -->
-
 **Global Information Systems Technology Inc.** / _2003 - 2004_  
 Graphic Artist | Created graphics, interactive simulations & animations used in training applications.
 
- <!-- *Computer based training software production*  -->
-
 **Dreamscape Design Inc.** / _2000 - 2002_  
 Designer | Created designs for web and print media, oversaw all aspects of web development from planing to launch & managed SEO for clients.
-
-<!-- *Web development and design* -->
 
 <br/>
 <hr>
