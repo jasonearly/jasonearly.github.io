@@ -7,7 +7,24 @@ title: GoHorse | Case Studies | Jason Early
   /* h1,h2,h3{color: #000;} */
   html {background-color: #fff;}
   section.hero{background-color: #5d6569;}
-  .container-fluid {padding:0;}
+  .container-fluid {padding:0; width:100%;}
+
+
+  .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  /* flex-direction: column; */
+  flex-basis: 100%;
+  justify-content: center;
+  /* align-content:center; */
+  flex: 1;
+}
 </style>
 
 <section class="hero">
@@ -17,14 +34,15 @@ title: GoHorse | Case Studies | Jason Early
 in order to increase the discoverability of listed service providers.</h3>
 </section>
 
+<figure>
 <img
   class="lazy"
   src="/case-studies/gohorse/images/hero.jpg"
   data-src="/case-studies/gohorse/images/hero.jpg"
   alt=""
 />
-
-  <figcaption><a href="">VIEW FULL IMAGE</a></figcaption>
+<figcaption style="padding:1%;"><a href="">VIEW FULL IMAGE</a></figcaption>
+</figure>
 
 <section class="" style="display: flex; flex-direction: row;  justify-content:space-between; padding: 2em 10vw;" >
   <div class="" style="width:240px;">
@@ -77,28 +95,33 @@ Customers were not aware of the selection of services listed and felt it was a d
 </div>
 
 <div class="">
+  <figure>
   <img
     class="lazy"
-    src="/case-studies/gohorse/images/previous-landing.jpg"
-    data-src="/case-studies/gohorse/images/previous-landing.jpg"
+    src="/case-studies/gohorse/images/previous-landing.png"
+    data-src="/case-studies/gohorse/images/previous-landing.png"
     alt=""
     width="762px"
   />
   <figcaption>
     This landing page was focused on since it was the page that had the most organic traffic.<br>
     <a href="">Click to VIEW ORIGINAL LANDING PAGE</a>
-  </figcaption><br>
+  </figcaption>
+    </figure>
 
+  <figure>
 <img
     class="lazy"
-    src="https://via.placeholder.com/762x358"
-    data-src="/https://via.placeholder.com/762x358"
+    src="/case-studies/gohorse/images/cta-highlight.png"
+    data-src="/case-studies/gohorse/images/cta-highlight.png"
     alt=""
+    width="762px"
   />
 
   <figcaption>
   Multiple calls to action for different audiences
   </figcaption>
+    </figure>
 
 </div>
   </section>
@@ -107,16 +130,59 @@ Customers were not aware of the selection of services listed and felt it was a d
     <div class=" " >
         <h4>Research findings and discovery</h4>
         <div style="display: column; flex-direction: row; align-content: space-between;">
-        <img style="flex: 1; margin:20px;" src="https://via.placeholder.com/100" alt="">
-        <img style="flex: 1; margin:20px;" src="https://via.placeholder.com/100" alt=""><br>
-        <img style="flex: 1; margin:20px;" src="https://via.placeholder.com/100" alt="">
-        <img style="flex: 1; margin:20px;" src="https://via.placeholder.com/100" alt="">
+
+          <div class='some-page-wrapper'>
+
+  <div class='row'>
+    <div class='column'>
+
+        <figure>
+
+  <img style="margin:20px; width:100px;" src="/case-studies/gohorse/images/icon-analytics.svg" alt="">
+    <figcaption style="text-align:center;">Analytics</figcaption>
+
+</figure>
+
+    </div>
+    <div class='column'>
+
+        <figure>
+        <img style=" margin:20px; width:100px;" src="/case-studies/gohorse/images/icon-pagespeed.svg" alt="">
+      <figcaption style="text-align:center;">PageSpeed</figcaption>
+      </figure>
+
+    </div>
+
+  </div>
+
+  <div class='row'>
+    <div class='column'>
+
+        <figure>
+        <img style="margin:20px; width:100px;" src="/case-studies/gohorse/images/icon-heatmap.svg" alt="">
+        <figcaption style="text-align:center;">Heatmap</figcaption>
+        </figure>
+
+    </div>
+    <div class='column'>
+
+        <figure>
+          <img style="margin:20px; width:100px;" src="/case-studies/gohorse/images/icon-data.svg" alt="">
+        <figcaption style="text-align:center;">Provided Data</figcaption>
+        </figure>
+
+    </div>
+
+  </div>
+
+</div>
+
           </div>
     </div>
     <div class="" style="width: 700px;">
-      <p class="description">Page speed performance was low
-    <img src="https://via.placeholder.com/760x260" alt="">
-      </p>
+      <p class="description">Page speed performance was low</p>
+        <img style="width: 65%; padding: 2%;" src="/case-studies/gohorse/images/initial-load-time.svg" alt="">
+        <br><br>
 
       <p class="description">The business was not currently tracking on-site search query</p>
       <p class="description">Spam data in analytics influencing decisions</p>
@@ -131,8 +197,8 @@ Traffic to pages was from low bandwidth areas of connectivity. (3G or less, with
     </div>
   </section>
 
-  <section style="display: flex; flex-direction: row; justify-content: center;padding: 2em 10vw;">
-    <div class="">
+  <section style="display: flex; flex-direction: row; justify-content: center;padding: 2em 10vw; ">
+    <div class="" style="width: 80%;">
         <h4>What I did about it</h4>
         <p class="description">
           include
@@ -187,11 +253,13 @@ Since the data showed there was good traffic coming into the directory listings 
     <div class="" style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom:50px">
       <img
           class="lazy"
-          src="https://via.placeholder.com/670x398"
-          data-src="/https://via.placeholder.com/670x398"
+          src="/case-studies/gohorse/images/final-load-time.svg"
+          data-src="/case-studies/gohorse/images/final-load-time.svg"
           alt=""
           style="margin-right:54px;"
+          width="286%;"
         />
+
         <div class="">
           <h4>Site PerfoRmaNce</h4>
           <p class="description">Improving the load speed of the site was detrimental to initial conversion of users. Utilizing site optimiztion and progressive web app techniques created a faster display of value on initial visit and made return visits load practically instantly.</p>
@@ -200,10 +268,11 @@ Since the data showed there was good traffic coming into the directory listings 
     <div class="" style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom:50px">
       <img
           class="lazy"
-          src="https://via.placeholder.com/670x398"
-          data-src="/https://via.placeholder.com/670x398"
+          src="/case-studies/gohorse/images/landing-service.jpg"
+          data-src="/case-studies/gohorse/images/landing-service.jpg"
           alt=""
           style="margin-right:54px;"
+          width="670px;"
         />
         <div class="">
           <h4>Focused service landing pages</h4>
@@ -211,13 +280,30 @@ Since the data showed there was good traffic coming into the directory listings 
         </div>
     </div>
     <div class="" style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom:50px">
+    <div class="" style="margin-right:54px;  width: 250%;">
+
       <img
           class="lazy"
-          src="https://via.placeholder.com/670x398"
-          data-src="/https://via.placeholder.com/670x398"
+          src="/case-studies/gohorse/images/service-browse.png"
+          data-src="/case-studies/gohorse/images/service-browse.png"
           alt=""
-          style="margin-right:54px;"
+
+
+
         />
+
+        <img
+            class="lazy"
+            src="/case-studies/gohorse/images/search.png"
+            data-src="/case-studies/gohorse/images/search.png"
+            alt=""
+            style="margin-right:54px; padding-top:10%;"
+
+
+
+          />
+              </div>
+
         <div class="">
           <h4>Service browse</h4>
           <p class="description">With over X services available on the directory service discovery was an essential part of a users inital and ongoing app expereince. By displaying results near the user it prioritized local convienience.  </p>
@@ -233,7 +319,7 @@ Since the data showed there was good traffic coming into the directory listings 
           <p class="description">Using SEO tactics I created category and state focused landing pages for top listings that fed in from search engine results for targeted key words. This allowed GoHorse to drive more traffic to listed services while lowering the marketing expense for paid advertising.</p>
         </div>
 
-      <div class="" style="display: flex; flex-direction: row; justify-content: space-evenly; margin-bottom:50px;">
+      <div class="" style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom:50px;">
         <img
             class="lazy"
             src="https://via.placeholder.com/325x650"
