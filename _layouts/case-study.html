@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- default index template -->
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+    {% include nav.html %}
+
+    <div class="container-fluid"> <!-- <div class="wrapper">-->
+        {{ content }}
+
+    </div><!--  </div>-->
+
+    {% include footer.html %}
+
+    <script>
+      // Check that service workers are registered
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker
+          .register("/sw.js")
+          .then(function(registration) {
+            console.log("Success! SW registered", registration.scope);
+          })
+          .catch(function(error) {
+            console.error("Failure!", error);
+          });
+        if (navigator.serviceWorker.controller) {
+          window.addEventListener("load", function() {
+            navigator.serviceWorker.controller.postMessage("clean up caches");
+          });
+        }
+      }
+    </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <script
+      async
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    ></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script async src="{{ 'js/app.js' | prepend: site.baseurl }}"></script>
+  </body>
+</html>
