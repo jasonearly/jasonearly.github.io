@@ -79,9 +79,9 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (>= 3.8.4)
+  jekyll (>= 3.8.6)
   jekyll-paginate
   jekyll-sitemap
 
 BUNDLED WITH
-   1.17.1
+   1.17.3
