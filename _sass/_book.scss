@@ -1,0 +1,44 @@
+.book {
+  background: #e8e8e8;
+  padding: 10rem 2rem;
+  font-style: normal;
+  font-weight: normal;
+  color: #000;
+
+  h2 {
+    font-family: League Gothic, sans-serif;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: uppercase;
+    max-width: 349.25px;
+  }
+
+  h6 {
+    font-family: Proxima Nova, sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    max-width: 349.25px;
+  }
+
+  p {
+    font-family: Source serif Pro, serif;
+    font-size: 18px;
+    line-height: 23px;
+    max-width: 349.25px;
+  }
+
+  .book-cta {
+    background: #ffa94c;
+    font-family: Proxima Nova, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+    border: 0;
+    color: #fff;
+    margin: 2rem 0;
+  }
+
+  img {
+    max-width: 60%;
+  }
+}
