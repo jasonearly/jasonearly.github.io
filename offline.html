@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <title></title>
+    <meta charset="utf-8" />
+    <title>Offline Version</title>
+    <meta
+      description="The offlie version of jasonearly.com. You'll see offline accessable pages of the site collected here."
+    />
   </head>
   <body>
     <h1>You apprear to be offline.</h1>
@@ -12,23 +15,19 @@
     <ul id="history"></ul>
 
     <script type="text/javascript">
-    // open the cache of pages
-    caches.open('pages')
-    .then( pagesCache => {
-      pagesCache.keys()
-      .then(keys => {
-        let markup = '';
-        // loop through each item in the cache
-        keys.forEach(request => {
-          // make a link to the url of each page
-          markup += `<li><a href="${request.url}"> ${request.url} </a></li>`;
-        });
-        // display the list of links
-        document.getElementById('history').innerHTML = markup;
-      }); // end keys then
-    }); // end open
-
+      // open the cache of pages
+      caches.open("pages").then(pagesCache => {
+        pagesCache.keys().then(keys => {
+          let markup = "";
+          // loop through each item in the cache
+          keys.forEach(request => {
+            // make a link to the url of each page
+            markup += `<li><a href="${request.url}"> ${request.url} </a></li>`;
+          });
+          // display the list of links
+          document.getElementById("history").innerHTML = markup;
+        }); // end keys then
+      }); // end open
     </script>
-
   </body>
 </html>
