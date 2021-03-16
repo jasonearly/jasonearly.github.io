@@ -1,7 +1,7 @@
 ---
 layout: now
 title: What I am doing right now.
-date: [LAST UPDATED MAY 22, 2020]
+date: LAST UPDATED MAY 22, 2020 
 permalink:
 categories: portfolio work process
 excerpt: ""
