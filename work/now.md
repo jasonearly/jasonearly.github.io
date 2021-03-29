@@ -13,6 +13,8 @@ excerpt: ""
 
 ➜ Working with 1-2 select clients per year via [gruntmonkey](https://gruntmonkey.com)
 
+➜ Writing a book about [getting hired](https://jasonearly.com/getting-hired/) as a designer.
+
 ➜ Mentoring students enrolled in General Assembly's UX and Frontend Development programs
 
 ➜ Reading The Making of a Manager: What to Do When Everyone Looks to You by Julie Zhuo.
