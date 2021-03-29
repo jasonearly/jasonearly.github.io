@@ -4,7 +4,7 @@ title: What I am currently working on.
 date: LAST UPDATED MARCH 29, 2020
 permalink:
 categories: portfolio work process
-excerpt: ""
+excerpt: "View a list of projects and updates that Jason Early is currently working on. "
 ---
 
 <!-- ✗ -->
