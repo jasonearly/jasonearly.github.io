@@ -12,6 +12,7 @@ gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "html-proofer"
 gem "kramdown-parser-gfm"
+gem "kramdown", ">= 2.3.1"
 
 require 'rbconfig'
  if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
