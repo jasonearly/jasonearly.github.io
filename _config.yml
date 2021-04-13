@@ -1,8 +1,7 @@
 # Site settings
-title: Jason Early | Chicago Digital Product Consultant and Educator.
+title: Jason Early - Chicago Digital Product Consultant and Educator.
 email: theoffice@gruntmonkey.com
 description: Jason Early is the Founder & Designer of gruntmonkey, a design consultancy that helps companies evolve their business into a successful venture.
-
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jasonearly.com" # the base hostname & protocol for your site
@@ -12,15 +11,52 @@ linkedin_username: jsonerly
 # Build settings
 markdown: kramdown
 permalink: /:title
-plugins: [jekyll-paginate, jekyll-sitemap]
+# permalink: /:slug/
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag]
 paginate: 3
 paginate_path: blog/page:num/
+
+#SEO metadata
+timezone: America/Chicago
+author:
+  name: Jason Early
+  twitter: jason_early
+  image: logo-192.png
+twitter:
+  username: jason_early
+  card: summary_large_image
+social:
+  name: Jason Early
+  links:
+    - https://twitter.com/jason_early
+    - https://www.linkedin.com/in/jsonerly
+    - https://github.com/jasonearly
 
 # compress HTML
 compress_html:
   clippings: all
   comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  endings:
+    [
+      html,
+      head,
+      body,
+      li,
+      dt,
+      dd,
+      rt,
+      rp,
+      optgroup,
+      option,
+      colgroup,
+      caption,
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th,
+    ]
   profile: false
   blanklines: false
   ignore:

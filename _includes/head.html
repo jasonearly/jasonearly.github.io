@@ -44,8 +44,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#5F656A" />
   <title>
-    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+    {% if page.title %}
+      {{ page.title }} -
+
+    {% endif %}
+
+ {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
+   Page {{ paginator.page }} of {{ paginator.total_pages }} -
+ {% endif %}
+
+ {{ site.title | escape }}
+ {% unless page.tag or site.title %}
+   - {{ site.description | escape }}
+ {% endunless %}
+
+
+
   </title>
+
   <meta
     name="description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
@@ -111,4 +127,6 @@
       s.parentNode.insertBefore(tk, s);
     })(document);
   </script>
+
+  {% seo title=false %}
 </head>

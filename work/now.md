@@ -5,6 +5,7 @@ date: LAST UPDATED MARCH 29, 2020
 permalink:
 categories: portfolio work process
 excerpt: "View a list of projects and updates that Jason Early is currently working on. Jason Early is a Digital Product Consultant and Educator."
+
 ---
 
 <!-- ✗ -->
