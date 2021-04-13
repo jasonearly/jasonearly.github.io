@@ -55,7 +55,7 @@
 
  {{ site.title | escape }}
  {% unless page.tag or site.title %}
-   - {{ site.description | escape }}
+   - {{ site.background | escape }}
  {% endunless %}
 
 
@@ -80,7 +80,7 @@
 
     {{ site.title | escape }}
     {% unless page.tag or site.title %}
-      - {{ site.description | escape }}
+      - {{ site.background | escape }}
     {% endunless %}"
   />
 
