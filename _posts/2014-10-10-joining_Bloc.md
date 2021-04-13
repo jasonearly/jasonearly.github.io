@@ -3,7 +3,7 @@ layout: post
 title: "Joining Bloc - Learning to Mentor Designers"
 date: 2014-10-10
 categories: archive design mentoring
-excerpt: "Jason Early is a design and web development mentor. At this time he was working with Bloc but has since moved on to working with General Assembly."
+brief: "Jason Early is a design and web development mentor. At this time he was working with Bloc but has since moved on to working with General Assembly."
 ---
 
 It's been almost a year since I last touched this site, which means it worked.  
