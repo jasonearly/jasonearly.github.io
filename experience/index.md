@@ -1,6 +1,6 @@
 ---
 layout: exp
-title: Experience
+title: Experience - Jason Early - Digital Product Consultant and Educator
 excerpt: "With over 20 years of professional design experience Jason Early has worked in many industries and with some of the largest tech companies around. "
 ---
 
