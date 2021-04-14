@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Side Projects - Product Design Exploration and Validation"
+title: "Side Projects - Exploration and Validation"
 date: 2018-04-20
 categories: archive design projects
 excerpt: "This week I had the pleasure of sitting on a General Assembly panel discussing side projects and how to use them for professional development."

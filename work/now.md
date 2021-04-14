@@ -1,6 +1,6 @@
 ---
 layout: now
-title: Current Work - Jason Early - Digital Product Consultant and Educator
+title: Current Work
 date: LAST UPDATED MARCH 29, 2020
 permalink:
 categories: portfolio work process
