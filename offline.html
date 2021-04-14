@@ -7,6 +7,27 @@
       name="description"
       content="The offline version of jasonearly.com. You'll see offline accessable pages of the site collected here."
     />
+
+    <!-- Open Graph -->
+      <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
+    <meta property="og:site_name" content="Jason Early">
+    <!-- <meta property="article:publisher" content="http://www.facebook.com/webjeda" />
+    <meta property="article:author" content="https://www.facebook.com/sharu725" /> -->
+    <meta property="article:published_time" content="{{ page.date }}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+    <!-- Twitter Card -->
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+      <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+      <meta name="twitter:site" content="@jason_early" />
+      <meta name="twitter:creator" content="@jason_early">
+      <meta name="twitter:card" content="summary">
+      
   </head>
   <body>
     <h1>You apprear to be offline.</h1>
