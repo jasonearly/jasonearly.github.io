@@ -78,9 +78,9 @@
     {% endif %}
 
     {{ site.title | escape }}
-    {% if page.tag or site.title %}
+    {% unless page.tag or site.title %}
       - {{ site.description | escape }}
-    {% endif %}"
+    {% endunless %}"
   />
 
   <meta
