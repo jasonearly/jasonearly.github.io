@@ -1,7 +1,7 @@
 # Site settings
 title: Jason Early - Chicago Digital Product Consultant and Educator.
 email: theoffice@gruntmonkey.com
-background: Jason Early is the Founder & Designer of gruntmonkey, a design consultancy that helps companies evolve their business into a successful venture.
+description: Jason Early is the Founder & Designer of gruntmonkey, a design consultancy that helps evolve businesses into successful ventures.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jasonearly.com" # the base hostname & protocol for your site

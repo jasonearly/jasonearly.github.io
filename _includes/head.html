@@ -67,19 +67,20 @@
     content="
     {% if page.title %}
       {{ page.title }} -
-
     {% endif %}
+
     {% if page.excerpt %}
       {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
     {% endif %}
+
     {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
       Page {{ paginator.page }} of {{ paginator.total_pages }} -
     {% endif %}
 
     {{ site.title | escape }}
-    {% unless page.tag or site.title %}
-      - {{ site.background | escape }}
-    {% endunless %}"
+    {% if page.tag or site.title %}
+      - {{ site.description | escape }}
+    {% endif %}"
   />
 
   <meta
