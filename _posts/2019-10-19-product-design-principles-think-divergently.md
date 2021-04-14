@@ -3,7 +3,7 @@ layout: post
 title: "Product Design Principles - Think Divergently"
 date: 2019-10-19
 categories: archive product design process
-brief: "Precision and perfection during the exploration and discovery phase create an illusion of certainty and permanence."
+excerpt: "Precision and perfection during the exploration and discovery phase create an illusion of certainty and permanence."
 ---
 
 <!-- ## Think Divergently -->

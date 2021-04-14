@@ -3,6 +3,7 @@ layout: post
 title:  "We did it to ourselves."
 date:   2012-6-21
 categories: archive design
+excerpt: "How designers behavior led to the rise of spec work."
 ---
 
 Spec work. No two words can put me on the defensive faster. Personally I feel that it’s the practice that does more damage to our industry then anything else. It advocates and encourages a misrepresentation of value and misunderstanding of what the Design industry is, and it needs to stop.    

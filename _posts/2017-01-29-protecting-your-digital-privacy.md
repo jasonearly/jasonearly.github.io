@@ -3,6 +3,7 @@ layout: post
 title:  "Protecting Your Digital Privacy"
 date:   2017-01-29
 categories: archive digital privacy
+excerpt: "Sharing steps showing how to protect your digital privacy"
 ---
 
 This has been a terrible weekend for Americans.     

@@ -3,7 +3,7 @@ layout: post
 title: "Product Design Principles - Stop Guessing"
 date: 2019-09-24
 categories: archive product design process
-brief: "Companies often face financial trouble in part because they over invest in products and features that aren’t relevant to their audience."
+excerpt: "Companies often face financial trouble in part because they over invest in products and features that aren’t relevant to their audience."
 ---
 
 <!-- ## Stop wasting time -->

@@ -3,6 +3,7 @@ layout: post
 title:  "Working for Work/Life Imbalance"
 date:   2016-11-13
 categories: archive design professionalism
+excerpt: "How I'm working towards positive work/life imbalance"
 ---
 
 A few months ago I was touring a marketing and advertising agency with a group of design students. The students were looking towards completing their program and evaluating potential employment opportunities. One of the students asked the woman giving the tour "Can you tell me about the work/life balance here?" "HA! There isn't any. You are here to work."  
