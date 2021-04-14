@@ -3,7 +3,7 @@ layout: post
 title: "Design Critique Guidelines"
 date: 2020-01-04
 categories: archive product design process
-brief: "Design critique is something I care deeply about and believe is one of the main keys to growing a healthy design team."
+excerpt: "Design critique is something I care deeply about and believe is one of the main keys to growing a healthy design team."
 ---
 
 Design critique is something I care deeply about and believe is one of the main keys to growing a healthy design team. So here are my guidelines for effective design critique in the hope that properly structured critique is included in more professional design processes.
