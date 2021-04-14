@@ -1,6 +1,6 @@
 ---
 layout: exp
-title: Experience - Jason Early
+title: Experience
 excerpt: "With over 20 years of professional design experience Jason Early has worked in many industries and with some of the largest tech companies around. "
 ---
 
