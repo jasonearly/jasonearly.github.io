@@ -4,7 +4,7 @@ title:  "Opportunity earned. Not given."
 date:   2012-7-21
 categories: archive design
 excerpt: "Your work is what will get you in my door, but actually speaking to you will convince me to grant you an opportunity."
-tags: opportunity resumes 
+tags: opportunity resumes jobs 
 ---
 
 A few times a year, mostly during the summer, the studio gets a number of random, unsolicited emails containing resumes and generic cover letter .PDFs from people who want to work here.  
