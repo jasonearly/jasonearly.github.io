@@ -1,6 +1,6 @@
 ---
 layout: now
-title: Current Work
+title: Current Work and Projects 
 date: LAST UPDATED MARCH 29, 2020
 permalink:
 categories: portfolio work process
