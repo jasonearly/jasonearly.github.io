@@ -1,5 +1,5 @@
 <section class="latest-post">
     <h6>LATEST ARTICLE: {% for post in site.posts limit:1 %}
-      <a class="article-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="article-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
     {% endfor %}</h6>
     </section>

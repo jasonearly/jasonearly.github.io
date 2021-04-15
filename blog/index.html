@@ -45,7 +45,7 @@ tags: blog Posts Opinions "product design" business
     <div class="pagination">
       {% if paginator.previous_page %}
       <a
-        href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+        href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}"
         class="pull-left"
         >&laquo; Newer Posts</a
       >
@@ -57,15 +57,15 @@ tags: blog Posts Opinions "product design" business
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      <a href="{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
   {% endfor %} -->
 
       {% if paginator.next_page %}
       <a
-        href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+        href="{{ paginator.next_page_path | prepend: site.url | replace: '//', '/' }}"
         class="pull-right"
         >Older Posts &raquo;</a
       >
