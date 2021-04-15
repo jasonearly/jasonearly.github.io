@@ -1,10 +1,10 @@
 # Site settings
-title: Jason Early 
+title: Jason Early
 email: theoffice@gruntmonkey.com
 description: Chicago Digital Product Consultant and Educator
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://jasonearly.com" # the base hostname & protocol for your site
+url: "http://jasonearly.com" # the base hostname & protocol for your site
 twitter_username: jason_early
 github_username: jasonearly
 linkedin_username: jsonerly
