@@ -15,7 +15,7 @@ This week I had the pleasure of sitting on a [General Assembly panel](https://ge
 As I was describing this to the audience I started to think through the number of personal projects that have come out of this model since I established [gruntmonkey](https://gruntmonkey.com) 8 years ago. So for a record of reflection here is a "mostly" comprehensive list of those side projects that I’ve developed.<br><br>
 
 [Getting Hired](https://jasonearly.com/getting-hired/) - A book I’m currently writing.  
-[Mentoring and Coaching](http://bit.ly/mentor-scheduling) - Working with students and independent creative professionals who want to get into the design industry and generate more business for themselves.  
+[Mentoring and Coaching](https://bit.ly/mentor-scheduling) - Working with students and independent creative professionals who want to get into the design industry and generate more business for themselves.  
 [Eames Style Furniture](https://eamesstylefurniture.com) - an online furniture store focusing on mid-century and modern furniture.  
 [JARVIS](https://github.com/jasonearly/JARVIS) - a voice-activated digital assistant that lives on my laptop.  
 [Res.Preview](https://github.com/jasonearly/res-preview)- a design tool for testing responsive designs across breakpoints.  
@@ -25,7 +25,7 @@ Unnamed Slackbot - A slackbot for instructors to field questions and queue up st
 [UX resources](https://github.com/ga-chicago/UXDI-resources) - an ongoing list of resources for UX students (Made while at General Assembly)  
 [Society6 x gruntmonkey](https://society6.com/gruntmonkey) - An exploration of product design.  
 [Viewport](https://github.com/gruntmonkeyLLC/viewport) - A progressive web app framework for displaying portfolios on tablets.  
-[The Poster Works](http://theposterworks.com) - An online poster store of screen prints.  
+[The Poster Works](https://theposterworks.com) - An online poster store of screen prints.  
 [gruntmonkey LLC.](https://gruntmonkey.com) - The original experiment. <br><br>
 
 It’s a diverse list of topics and tools that stem from learning and exploring. If I want to learn how to do something, I’ll build a project around it so there are some constraints aside from learning the concept. This is how I learn. I read, then apply, then reflect.<br><br>

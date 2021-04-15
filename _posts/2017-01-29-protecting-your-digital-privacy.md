@@ -7,9 +7,9 @@ excerpt: "Sharing steps showing how to protect your digital privacy"
 ---
 
 This has been a terrible weekend for Americans.     
-With President Trumps fear mongering executive order on immigration and refugees, CNN is currently running this headline, "[Cell phone screening next?](http://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html)"<br/><br/>    
+With President Trumps fear mongering executive order on immigration and refugees, CNN is currently running this headline, "[Cell phone screening next?](https://www.cnn.com/2017/01/29/politics/donald-trump-immigrant-policy-social-media-contacts/index.html)"<br/><br/>    
 
-This got me thinking of sharing steps showing how to protect your digital privacy, then I recalled the UK's recent online surveillance changes reported by [The Verge](http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill) and their [similar tips](http://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online)  that followed. <br/><br/>    
+This got me thinking of sharing steps showing how to protect your digital privacy, then I recalled the UK's recent online surveillance changes reported by [The Verge](https://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill) and their [similar tips](https://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online)  that followed. <br/><br/>    
 
 While originally written to inform residents and travelers in the UK, these are good steps to take for any digital citizen worried about unlawful surveillance.<br/><br/>    
 
