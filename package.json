@@ -31,7 +31,7 @@
     "is-svg": ">=4.2.2",
     "kind-of": ">=6.0.3",
     "lodash": "^4.17.21",
-    "minimist": ">=1.2.3",
+    "minimist": ">=1.2.6",
     "tunnel-agent": ">=0.6.0",
     "yargs-parser": ">=13.1.2",
      "glob-parent": ">=5.1.2",
