@@ -7,3 +7,4 @@ node_modules/
 /work/img-unoptim
 /img-unoptim
 .DS_Store
+.parcel-cache
