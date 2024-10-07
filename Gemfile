@@ -20,4 +20,4 @@ require 'rbconfig'
    gem 'rb-fsevent', '<= 0.9.4'
  end
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
