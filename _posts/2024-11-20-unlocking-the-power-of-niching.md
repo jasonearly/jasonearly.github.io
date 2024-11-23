@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlocking the Power of Niching | A Guide for Creative Entrepreneurs"
+title: "Unlocking the Power of Niching"
 date: 2024-11-20
 categories: archive product design process entrepreneurship
 excerpt: ""
