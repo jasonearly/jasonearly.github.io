@@ -3,8 +3,8 @@ layout: post
 title: "Unlocking the Power of Niching | A Guide for Creative Entrepreneurs"
 date: 2024-11-20
 categories: archive product design process entrepreneurship
-excerpt: "Discover how niching down can transform your creative business. Learn actionable strategies to identify your niche, attract ideal clients, and build a thriving brand that stands out in a crowded market. Read more on jasonearly.com."
-description: 
+excerpt: ""
+description: "Discover how niching down can transform your creative business. Learn actionable strategies to identify your niche, attract ideal clients, and build a thriving brand that stands out in a crowded market. Read more on jasonearly.com."
 ---
 
 <!-- ## Unlocking the Power of Niching  -->
