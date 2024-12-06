@@ -4,6 +4,7 @@ title: "Managers of One"
 date: 2022-06-21
 categories: archive product design process
 excerpt: ""
+description: "Learn why hiring a manager of one can transform your business with self-sufficient, proactive team members who deliver results without constant oversight."
 ---
 
 <!-- ## Managers of One  -->

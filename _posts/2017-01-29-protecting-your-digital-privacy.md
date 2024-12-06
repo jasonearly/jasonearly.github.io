@@ -4,6 +4,7 @@ title:  "Protecting Your Digital Privacy"
 date:   2017-01-29
 categories: archive digital privacy
 excerpt: "Sharing steps showing how to protect your digital privacy"
+description: "Learn practical tips for protecting your digital privacy in a connected world. Safeguard personal data and stay secure online with actionable strategies."
 ---
 
 This has been a terrible weekend for Americans.     

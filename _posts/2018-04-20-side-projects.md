@@ -4,6 +4,7 @@ title: "Side Projects - Exploration and Validation"
 date: 2018-04-20
 categories: archive design projects
 excerpt: "This week I had the pleasure of sitting on a General Assembly panel discussing side projects and how to use them for professional development."
+description: "Explore the power of side projects for creative growth and business success. Learn how passion projects can boost skills, build portfolios, and attract clients."
 ---
 
 This week I had the pleasure of sitting on a [General Assembly panel](https://generalassemb.ly/education/how-to-be-a-side-hustler-a-definitive-guide) discussing side projects and how to use them for professional development. When I describe my business, [gruntmonkey](https://gruntmonkey.com), I often described it as a business of side projects. When I established it I set up a 3 legged business model that would feed into each other and create a cycle of projects that would keep business generating for a long time. <br><br>

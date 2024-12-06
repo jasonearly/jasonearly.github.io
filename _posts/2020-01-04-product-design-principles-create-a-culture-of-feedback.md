@@ -4,6 +4,7 @@ title: "Product Design Principles - A Culture of Feedback"
 date: 2020-01-04
 categories: archive product design process
 excerpt: "Critique, feedback, and iteration is the blood flow of a healthy design team. It informs the design process, leads to better products and helps designers grow professionally."
+description: "Discover product design principles that foster a culture of feedback, driving innovation, collaboration, and better outcomes for your creative business."
 ---
 
 <!-- ## Create a culture of feedback -->

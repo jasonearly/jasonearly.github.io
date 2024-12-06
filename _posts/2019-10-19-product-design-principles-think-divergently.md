@@ -4,6 +4,7 @@ title: "Product Design Principles - Think Divergently"
 date: 2019-10-19
 categories: archive product design process
 excerpt: "Precision and perfection during the exploration and discovery phase create an illusion of certainty and permanence."
+description: "Discover how embracing divergent thinking in product design unlocks creativity, fosters innovation, and leads to user-focused solutions that stand out."
 ---
 
 <!-- ## Think Divergently -->

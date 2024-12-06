@@ -4,6 +4,7 @@ title: "Product Design Principles - Stop Guessing"
 date: 2019-09-24
 categories: archive product design process
 excerpt: "Companies often face financial trouble in part because they over invest in products and features that aren’t relevant to their audience."
+description: "Stop guessing in product design. Learn how data-driven decisions and user feedback lead to better products, stronger outcomes, and increased user satisfaction."
 ---
 
 <!-- ## Stop wasting time -->
