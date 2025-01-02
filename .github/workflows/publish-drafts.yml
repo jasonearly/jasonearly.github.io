@@ -13,6 +13,6 @@ jobs:
     - name: Jekyll Publish Drafts
       uses: soywiz/github-action-jekyll-publish-drafts@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GH_ACTIONS_TOKEN }}
         jekyll_path: ./
         branch: master
