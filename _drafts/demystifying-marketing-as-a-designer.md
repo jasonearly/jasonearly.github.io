@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demystifying Marketing as a Designer"
-date: 2024-12-31
+date: 2025-01-01
 categories: archive product design process entrepreneurship
 excerpt: ""
 description: "Learn how to market yourself as a designer with actionable strategies for networking, building authority, and attracting the right clients consistently."
