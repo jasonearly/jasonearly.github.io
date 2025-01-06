@@ -4,7 +4,7 @@ title: "Unlocking Sales Success for Creative Entrepreneurs"
 date: 2025-01-03
 categories: archive product design process entrepreneurship marketing
 excerpt: ""
-description: "Learn how to elevate your creative business with the AIDA formula for sales copy and the Tiered Offer strategy. Master marketing, attract better clients, and thrive as a creative entrepreneur."
+description: "Boost your creative business with AIDA and Tiered Offers. Master marketing, attract top clients, and thrive as a creative entrepreneur."
 ---
 
 Are you a creative entrepreneur looking to level up your business strategy? Whether you're building your freelance career, running a design studio, or dreaming of turning your side hustle into a full-fledged business, mastering the art of sales and client offerings is key to success. In this post, we'll explore two powerful strategies: the AIDA formula for writing compelling sales copy and the Tiered Offer to diversify your services and reach a wider audience.

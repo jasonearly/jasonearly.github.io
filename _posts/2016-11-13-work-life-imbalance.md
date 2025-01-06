@@ -4,7 +4,7 @@ title:  "Working for Work/Life Imbalance"
 date:   2016-11-13
 categories: archive design professionalism
 excerpt: "How I'm working towards positive work/life imbalance"
-description: "Discover how to recognize and address work-life imbalance. Gain insights on achieving healthier boundaries and enhancing personal well-being in today's busy world."
+description: "Learn to spot work-life imbalance and set healthier boundaries. Boost your well-being and find balance in today’s fast-paced world."
 ---
 
 A few months ago I was touring a marketing and advertising agency with a group of design students. The students were looking towards completing their program and evaluating potential employment opportunities. One of the students asked the woman giving the tour "Can you tell me about the work/life balance here?" "HA! There isn't any. You are here to work."  
