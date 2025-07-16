@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop waiting for the email that never comes"
+title: "Stop Waiting For The Email That Never Comes"
 date: 2025-07-15
 categories: archive product design process entrepreneurship
 excerpt: ""
