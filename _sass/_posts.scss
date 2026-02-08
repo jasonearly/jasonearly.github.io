@@ -40,10 +40,15 @@
   }
 
   h3 {
-    font-size: 3.034em;
-
+    padding: 0;
+    font-size: 1.875em;
+    margin-top: 1.875em;
+    margin-bottom: 1em;
+    color: #2c3e50;
+    font-family: "league-gothic", sans-serif;
+    text-transform: uppercase;
     @include media-query($on-laptop) {
-      font-size: 16px;
+      font-size: 1.6em;
     }
   }
 
@@ -73,10 +78,12 @@
   ul {
     max-width: 85%;
     margin-top: 0.716em;
+    list-style-type: disc;
+    padding-left: 2em;
   }
 
   li {
-    padding-left: 2.618em;
+    padding-left: 0.5em;
     margin: 1em 0;
     font-size: 1.1em;
   }
