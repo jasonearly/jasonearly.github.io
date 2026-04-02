@@ -31,7 +31,7 @@
     "run-sequence": "^2.2.1",
     "tough-cookie": ">=4.1.3",
     "uncss": "^0.17.3",
-    "form-data": ">=2.5.4"
+    "form-data": ">=2.5.5"
   },
   "devDependencies": {
     "bl": ">=1.2.3",
@@ -45,6 +45,6 @@
     "postcss": ">=8.4.31",
     "tunnel-agent": ">=0.6.0",
     "yargs-parser": ">=13.1.2",
-    "form-data": ">=2.5.4"
+    "form-data": ">=2.5.5"
   }
 }
